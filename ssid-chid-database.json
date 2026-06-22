@@ -1,0 +1,32 @@
+[
+  {
+    "ssid": "8E94",
+    "chid": "1fb4e99f-760b-5045-937b-dff8e9cbe146",
+    "projectName": "OB5_PRL_Deso"
+  },
+  {
+    "ssid": "8E97",
+    "chid": "9804fe1a-c7fa-5577-94e4-1de2bed8ccd5",
+    "projectName": "OB5_PRL_Esa"
+  },
+  {
+    "ssid": "8E95",
+    "chid": "345fa527-1a11-581c-80cb-6635605673ee",
+    "projectName": "OB5_PTL_Deso"
+  },
+  {
+    "ssid": "8E98",
+    "chid": "d7b2519d-388b-5d27-bcc5-e03bd4f96b8e",
+    "projectName": "OB5_PTL_Esa"
+  },
+  {
+    "ssid": "8E96",
+    "chid": "494df2d6-862c-54ef-9d8f-7a4236ac2415",
+    "projectName": "OB5_WCL_Deso"
+  },
+  {
+    "ssid": "8E99",
+    "chid": "6988b5ea-42a9-5d72-93b5-22f2a4d06b67",
+    "projectName": "OB5_WCL_Esa"
+  }
+]
