@@ -38,8 +38,8 @@
   {
     "sharedProductId": "401872843",
     "privateProductId": "14019554707805980",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel Management Engine Interface 2428.6.2.0  win10",
+    "submissionId": "1152921505699849973"
   },
   {
     "sharedProductId": "401899735",
@@ -50,8 +50,8 @@
   {
     "sharedProductId": "401912956",
     "privateProductId": "14131311173959741",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISST 20.40.11112.10 W10 W11 W24",
+    "submissionId": "1152921505700006607"
   },
   {
     "sharedProductId": "401913243",
@@ -62,8 +62,8 @@
   {
     "sharedProductId": "401919645",
     "privateProductId": "13524937749727916",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 32.0.100.2820 Ext INF Template",
+    "submissionId": "1152921505699870822"
   },
   {
     "sharedProductId": "401923118",
@@ -98,8 +98,8 @@
   {
     "sharedProductId": "402095543",
     "privateProductId": "14231732617486430",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel PPM Driver V95 with 23H2",
+    "submissionId": "1152921505700769716"
   },
   {
     "sharedProductId": "402095612",
@@ -248,8 +248,8 @@
   {
     "sharedProductId": "402253459",
     "privateProductId": "14150679311470754",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1043.0.539_WDI_NBF",
+    "submissionId": "1152921505699873298"
   },
   {
     "sharedProductId": "402254606",
@@ -272,14 +272,14 @@
   {
     "sharedProductId": "402286171",
     "privateProductId": "14461501838820623",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004082 - Base",
+    "submissionId": "1152921505699875446"
   },
   {
     "sharedProductId": "402286172",
     "privateProductId": "14341745739697507",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004082 - Ext INF Template",
+    "submissionId": "1152921505699906623"
   },
   {
     "sharedProductId": "402287283",
@@ -344,8 +344,8 @@
   {
     "sharedProductId": "402330341",
     "privateProductId": "14183007642390294",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Ethernet Controller I225-V",
+    "submissionId": "1152921505699923001"
   },
   {
     "sharedProductId": "402332555",
@@ -842,14 +842,14 @@
   {
     "sharedProductId": "402362882",
     "privateProductId": "13753633428181832",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.7026 Base",
+    "submissionId": "1152921505699987950"
   },
   {
     "sharedProductId": "402362972",
     "privateProductId": "14528216440253840",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.7026 Ext",
+    "submissionId": "1152921505699988036"
   },
   {
     "sharedProductId": "402362985",
@@ -986,14 +986,14 @@
   {
     "sharedProductId": "402364699",
     "privateProductId": "14161235719576546",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.6979 Base",
+    "submissionId": "1152921505699851889"
   },
   {
     "sharedProductId": "402364754",
     "privateProductId": "13552539776548157",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.6979 Ext",
+    "submissionId": "1152921505699851743"
   },
   {
     "sharedProductId": "402366379",
@@ -1052,14 +1052,14 @@
   {
     "sharedProductId": "402368269",
     "privateProductId": "14402174837437954",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Cirrus SPB base amp driver c3 [08.26.25]",
+    "submissionId": "1152921505700607277"
   },
   {
     "sharedProductId": "402368417",
     "privateProductId": "13962959836620836",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AkCCID_v1.10.7.1001_Win10_22H2_Win11_22H2_24H2_25H2_x64",
+    "submissionId": "1152921505700591730"
   },
   {
     "sharedProductId": "402368513",
@@ -1568,8 +1568,8 @@
   {
     "sharedProductId": "402375163",
     "privateProductId": "14347662090257185",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISST MVA 01.00.4002.00 W10 W11",
+    "submissionId": "1152921505699857079"
   },
   {
     "sharedProductId": "402375190",
@@ -1622,8 +1622,8 @@
   {
     "sharedProductId": "402376544",
     "privateProductId": "14466600492942608",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RW350_20H2-25H2_Fwflash_2.9.80.0_0902",
+    "submissionId": "1152921505700990243"
   },
   {
     "sharedProductId": "402376620",
@@ -1688,8 +1688,8 @@
   {
     "sharedProductId": "402378875",
     "privateProductId": "14097379595743038",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RW350-wwannet-354-20-25h2-0903",
+    "submissionId": "1152921505700989632"
   },
   {
     "sharedProductId": "402379152",
@@ -1724,8 +1724,8 @@
   {
     "sharedProductId": "402380207",
     "privateProductId": "14000089458492865",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Serial IO_LNL_30.100.2524.32_25H2",
+    "submissionId": "1152921505700773743"
   },
   {
     "sharedProductId": "402380481",
@@ -1766,8 +1766,8 @@
   {
     "sharedProductId": "402381274",
     "privateProductId": "14416066920455471",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004240 - Ext INF Template",
+    "submissionId": "1152921505699988064"
   },
   {
     "sharedProductId": "402381342",
@@ -1790,26 +1790,26 @@
   {
     "sharedProductId": "402381499",
     "privateProductId": "14588650636238167",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISST 20.40.12350.3 W10 W11",
+    "submissionId": "1152921505699856865"
   },
   {
     "sharedProductId": "402381679",
     "privateProductId": "14487815786238122",
-    "productName": "",
-    "submissionId": ""
+    "productName": "UWPPair-25.30-25H2_24H2_Ni_9/4/2025",
+    "submissionId": "1152921505700738666"
   },
   {
     "sharedProductId": "402382200",
     "privateProductId": "14194817915182078",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Wireless Manageability 2536.98.121 EXT INF",
+    "submissionId": "1152921505700658004"
   },
   {
     "sharedProductId": "402382225",
     "privateProductId": "14236642484434664",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Wireless Manageability 2536.98.121 COMP INF",
+    "submissionId": "1152921505700657800"
   },
   {
     "sharedProductId": "402382431",
@@ -2096,8 +2096,8 @@
   {
     "sharedProductId": "402386871",
     "privateProductId": "13609923357927993",
-    "productName": "",
-    "submissionId": ""
+    "productName": "[FP]EFD3.4.12404.04001_LNV_standalone_24H2_25H2",
+    "submissionId": "1152921505700773533"
   },
   {
     "sharedProductId": "402387287",
@@ -2180,8 +2180,8 @@
   {
     "sharedProductId": "402389714",
     "privateProductId": "14233428681476315",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AMD_UART_1.2.0.119_21h2_22h2_24h2_25h2",
+    "submissionId": "1152921505700250517"
   },
   {
     "sharedProductId": "402389715",
@@ -2216,8 +2216,8 @@
   {
     "sharedProductId": "402390803",
     "privateProductId": "13589154859177510",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MEP_EINF_LILAC_25H2_WHQLSigned - daniel.mok@amd.com",
+    "submissionId": "1152921505700586454"
   },
   {
     "sharedProductId": "402390826",
@@ -2240,8 +2240,8 @@
   {
     "sharedProductId": "402391679",
     "privateProductId": "14043709453792895",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Microarray Fingerprint Reader(multi user bug fixed)",
+    "submissionId": "1152921505699891700"
   },
   {
     "sharedProductId": "402391851",
@@ -2252,8 +2252,8 @@
   {
     "sharedProductId": "402392186",
     "privateProductId": "13612056609673068",
-    "productName": "",
-    "submissionId": ""
+    "productName": "SOL IMSS Extension 2516.8.0.0v2",
+    "submissionId": "1152921505700658109"
   },
   {
     "sharedProductId": "402392257",
@@ -2264,8 +2264,8 @@
   {
     "sharedProductId": "402392285",
     "privateProductId": "13650459582948979",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel Active Management Technology (SOL) 2516.8.0.0v2",
+    "submissionId": "1152921505700658051"
   },
   {
     "sharedProductId": "402392315",
@@ -2276,8 +2276,8 @@
   {
     "sharedProductId": "402392412",
     "privateProductId": "14317918967736648",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel Silicon Security Engine Interface 2517.8.1.0v2",
+    "submissionId": "1152921505700252414"
   },
   {
     "sharedProductId": "402392433",
@@ -2288,8 +2288,8 @@
   {
     "sharedProductId": "402392443",
     "privateProductId": "13987732635787267",
-    "productName": "",
-    "submissionId": ""
+    "productName": "SOL LMS Extension 2516.8.0.0v2",
+    "submissionId": "1152921505700657923"
   },
   {
     "sharedProductId": "402392446",
@@ -2330,8 +2330,8 @@
   {
     "sharedProductId": "402392769",
     "privateProductId": "14565956000085927",
-    "productName": "",
-    "submissionId": ""
+    "productName": "KillerNetworkExtension Tend 40.25.905.172",
+    "submissionId": "1152921505699949351"
   },
   {
     "sharedProductId": "402392771",
@@ -2456,26 +2456,26 @@
   {
     "sharedProductId": "402394919",
     "privateProductId": "14403575584480197",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 23.170.0.1 DCH-BASE",
+    "submissionId": "1152921505699953311"
   },
   {
     "sharedProductId": "402395003",
     "privateProductId": "14089092185018822",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 23.170.0.1 DCH Lenovo",
+    "submissionId": "1152921505699953282"
   },
   {
     "sharedProductId": "402395142",
     "privateProductId": "14340467273996125",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) PROSet Wireless WiFi 23.1170.0.1 PIE Ext INF",
+    "submissionId": "1152921505700458314"
   },
   {
     "sharedProductId": "402395199",
     "privateProductId": "13750332776441271",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R)PROSet Wireless WiFi 23.1170.0.1 PIE Comp INF",
+    "submissionId": "1152921505699953739"
   },
   {
     "sharedProductId": "402395467",
@@ -2486,8 +2486,8 @@
   {
     "sharedProductId": "402395510",
     "privateProductId": "14363821600492779",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel Local Management Service (LMS) 2538.8.9.0",
+    "submissionId": "1152921505700657864"
   },
   {
     "sharedProductId": "402395600",
@@ -2570,8 +2570,8 @@
   {
     "sharedProductId": "402398031",
     "privateProductId": "14489428638005185",
-    "productName": "",
-    "submissionId": ""
+    "productName": "pmt_5.2.6.3",
+    "submissionId": "1152921505699922962"
   },
   {
     "sharedProductId": "402398044",
@@ -2588,8 +2588,8 @@
   {
     "sharedProductId": "402398137",
     "privateProductId": "13551196712865267",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_WCL_MEPExtension_2.0.17.0",
+    "submissionId": "1152921505699842700"
   },
   {
     "sharedProductId": "402398146",
@@ -2618,8 +2618,8 @@
   {
     "sharedProductId": "402398254",
     "privateProductId": "14320129868646444",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_NPU_32.0.100.4235",
+    "submissionId": "1152921505699843166"
   },
   {
     "sharedProductId": "402398266",
@@ -2660,8 +2660,8 @@
   {
     "sharedProductId": "402398375",
     "privateProductId": "13838073825233926",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_WCL_MEPOptInCameraExt_1.0.0.8",
+    "submissionId": "1152921505699842719"
   },
   {
     "sharedProductId": "402398382",
@@ -2678,38 +2678,38 @@
   {
     "sharedProductId": "402398600",
     "privateProductId": "14009557141319018",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_WCL_MEPOptInCameraExt_1.0.0.8",
+    "submissionId": "1152921505699843066"
   },
   {
     "sharedProductId": "402398770",
     "privateProductId": "13530776509206748",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MunichA_BIOS_1.00",
+    "submissionId": "1152921505699843596"
   },
   {
     "sharedProductId": "402400538",
     "privateProductId": "14111652668335096",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_ISH_HECI_Ext_5.8.43.0",
+    "submissionId": "1152921505699848983"
   },
   {
     "sharedProductId": "402400817",
     "privateProductId": "13879994551902302",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_Intel_ISH_HECI_5.8.47.0",
+    "submissionId": "1152921505699848936"
   },
   {
     "sharedProductId": "402400992",
     "privateProductId": "14598943774282201",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Netwaw18_99.0.99.8_ES_QS_ATT",
+    "submissionId": "1152921505699849461"
   },
   {
     "sharedProductId": "402401655",
     "privateProductId": "14261065523202467",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcsubsys_ext_adsp8380_Altai_r8400_09_17",
+    "submissionId": "1152921505699851769"
   },
   {
     "sharedProductId": "402403148",
@@ -2738,8 +2738,8 @@
   {
     "sharedProductId": "402404340",
     "privateProductId": "13522023598790997",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004297 - Base",
+    "submissionId": "1152921505699968949"
   },
   {
     "sharedProductId": "402404342",
@@ -2756,56 +2756,56 @@
   {
     "sharedProductId": "402405478",
     "privateProductId": "14021992126532277",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.7076 Ext",
+    "submissionId": "1152921505699984087"
   },
   {
     "sharedProductId": "402405542",
     "privateProductId": "13734562565858747",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcacsp_crd8480_FBSP",
+    "submissionId": "1152921505699864112"
   },
   {
     "sharedProductId": "402405660",
     "privateProductId": "13894564975328729",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_gfx_32.0.101.8075_ext_ATT",
+    "submissionId": "1152921505699863775"
   },
   {
     "sharedProductId": "402405661",
     "privateProductId": "13924062682284391",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_MVA_1.0.3973.0_ATT",
+    "submissionId": "1152921505699863776"
   },
   {
     "sharedProductId": "402405662",
     "privateProductId": "14556910819064999",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_NPU_ext_32.0.100.4294",
+    "submissionId": "1152921505699863777"
   },
   {
     "sharedProductId": "402405668",
     "privateProductId": "13827114054207705",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcasd_CRD_Extension8480",
+    "submissionId": "1152921505699863786"
   },
   {
     "sharedProductId": "402405688",
     "privateProductId": "13900997694825715",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcadcm8480_calib_20250919180600_Signed",
+    "submissionId": "1152921505699864190"
   },
   {
     "sharedProductId": "402405690",
     "privateProductId": "14549515126302718",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcasd_apo8480_20250919180822_Signed",
+    "submissionId": "1152921505699864193"
   },
   {
     "sharedProductId": "402405691",
     "privateProductId": "14318418688555807",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcasd_CRD_Extension8480_",
+    "submissionId": "1152921505699864194"
   },
   {
     "sharedProductId": "402405696",
@@ -2816,44 +2816,44 @@
   {
     "sharedProductId": "402405697",
     "privateProductId": "14176447775907806",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HQ_QC_qcasd8480_5010.311.0.1_ATT",
+    "submissionId": "1152921505699864206"
   },
   {
     "sharedProductId": "402405707",
     "privateProductId": "13907027556377136",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.7076 Base",
+    "submissionId": "1152921505699984067"
   },
   {
     "sharedProductId": "402405773",
     "privateProductId": "14193945427408239",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Qcasd_CRD_Extension8480",
+    "submissionId": "1152921505699863971"
   },
   {
     "sharedProductId": "402405799",
     "privateProductId": "14510354276982953",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_NPU_base_32.0.100.4294",
+    "submissionId": "1152921505699863831"
   },
   {
     "sharedProductId": "402405800",
     "privateProductId": "14525027635072345",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_ISST_20.43.12331.6_base_ATT",
+    "submissionId": "1152921505699863833"
   },
   {
     "sharedProductId": "402405802",
     "privateProductId": "14417281381545352",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcasd_CRD_Extension8480",
+    "submissionId": "1152921505699863838"
   },
   {
     "sharedProductId": "402405823",
     "privateProductId": "13988403509658452",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_gfx_32.0.101.8075_base_ATT",
+    "submissionId": "1152921505699863223"
   },
   {
     "sharedProductId": "402405827",
@@ -2864,14 +2864,14 @@
   {
     "sharedProductId": "402405835",
     "privateProductId": "13933213223013260",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_TI_AMP_5.12.1.13_ATT",
+    "submissionId": "1152921505699863999"
   },
   {
     "sharedProductId": "402405852",
     "privateProductId": "14097025276635118",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HQ_QC_qcaucd8480_FBSP_5011.107.0.1_ATT",
+    "submissionId": "1152921505699864170"
   },
   {
     "sharedProductId": "402405915",
@@ -2882,44 +2882,44 @@
   {
     "sharedProductId": "402405924",
     "privateProductId": "14488436691053351",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_TI_AMP_5.12.1.13_ATT",
+    "submissionId": "1152921505699864154"
   },
   {
     "sharedProductId": "402405947",
     "privateProductId": "13837716326157740",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HQ_QC_qcaucd_ext_crd8480_5011.107.0.1_ATT",
+    "submissionId": "1152921505699863794"
   },
   {
     "sharedProductId": "402406385",
     "privateProductId": "14386428651333667",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1104FTA_305",
+    "submissionId": "1152921505699868102"
   },
   {
     "sharedProductId": "402406616",
     "privateProductId": "14176220558691091",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1104CTA_305",
+    "submissionId": "1152921505699868270"
   },
   {
     "sharedProductId": "402406647",
     "privateProductId": "13587683593396581",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1204CTA_305",
+    "submissionId": "1152921505699867871"
   },
   {
     "sharedProductId": "402406667",
     "privateProductId": "14331379507880670",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1204FTA_305",
+    "submissionId": "1152921505699868080"
   },
   {
     "sharedProductId": "402407227",
     "privateProductId": "13712203871565869",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6368A_SKU11_V28_BIOS_250922",
+    "submissionId": "1152921505699870627"
   },
   {
     "sharedProductId": "402407402",
@@ -2930,14 +2930,14 @@
   {
     "sharedProductId": "402407756",
     "privateProductId": "14593273694830263",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Mediatek Bluetooth Audio Device_v1.5.0.46",
+    "submissionId": "1152921505699889221"
   },
   {
     "sharedProductId": "402407765",
     "privateProductId": "14120788688767047",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB6369C_BIOS_1.34.0.0",
+    "submissionId": "1152921505699872957"
   },
   {
     "sharedProductId": "402407775",
@@ -2948,26 +2948,26 @@
   {
     "sharedProductId": "402407776",
     "privateProductId": "13954319630669937",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB6287C_BIOS_1.39",
+    "submissionId": "1152921505699872489"
   },
   {
     "sharedProductId": "402407798",
     "privateProductId": "14305967927529783",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004299 - Ext INF Template",
+    "submissionId": "1152921505700012887"
   },
   {
     "sharedProductId": "402407854",
     "privateProductId": "14631028770148998",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB6368C_BIOS_1.38",
+    "submissionId": "1152921505699872549"
   },
   {
     "sharedProductId": "402407901",
     "privateProductId": "14227086360741401",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004299 - Base",
+    "submissionId": "1152921505699968535"
   },
   {
     "sharedProductId": "402407986",
@@ -2984,32 +2984,32 @@
   {
     "sharedProductId": "402408334",
     "privateProductId": "14240129189067442",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6099C_BIOS_P10CFP.024",
+    "submissionId": "1152921505699874846"
   },
   {
     "sharedProductId": "402408365",
     "privateProductId": "13618180296428698",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6100B_BIOS_P10CFM.031",
+    "submissionId": "1152921505699874620"
   },
   {
     "sharedProductId": "402408439",
     "privateProductId": "13942967963900216",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.7077 Base",
+    "submissionId": "1152921505699966328"
   },
   {
     "sharedProductId": "402408440",
     "privateProductId": "14151510375847346",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.7077 Ext",
+    "submissionId": "1152921505699966062"
   },
   {
     "sharedProductId": "402408448",
     "privateProductId": "14144263458606082",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6099B_BIOS_P10CFL.031",
+    "submissionId": "1152921505699874475"
   },
   {
     "sharedProductId": "402408698",
@@ -3020,14 +3020,14 @@
   {
     "sharedProductId": "402409144",
     "privateProductId": "14504159052769056",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HQ_OBU_ISH_HECI_Ext_5.8.43.0_ATT",
+    "submissionId": "1152921505699878002"
   },
   {
     "sharedProductId": "402409338",
     "privateProductId": "14124732026764944",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HQ_OBU_ISH_HECI_5.8.47.0_ATT",
+    "submissionId": "1152921505699877863"
   },
   {
     "sharedProductId": "402410391",
@@ -3038,62 +3038,62 @@
   {
     "sharedProductId": "402411122",
     "privateProductId": "14382417630776959",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1044.0.556_WDI_NBF",
+    "submissionId": "1152921505699895585"
   },
   {
     "sharedProductId": "402411220",
     "privateProductId": "14192814222663414",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1044.0.556_WDI_BF",
+    "submissionId": "1152921505699895727"
   },
   {
     "sharedProductId": "402411336",
     "privateProductId": "14369523660127297",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MediaTek Wi-Fi 6E MT7920 160MHz WLAN Card_3.5.0.1349_BF",
+    "submissionId": "1152921505699886139"
   },
   {
     "sharedProductId": "402411521",
     "privateProductId": "13634122784857899",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MediaTek Wi-Fi 6E MT7920 160MHz WLAN Card_3.5.0.1349_NB",
+    "submissionId": "1152921505699886141"
   },
   {
     "sharedProductId": "402411536",
     "privateProductId": "13825370827892640",
-    "productName": "",
-    "submissionId": ""
+    "productName": "IshHeci_5.8.49.0_ATT_0924",
+    "submissionId": "1152921505699885598"
   },
   {
     "sharedProductId": "402411674",
     "privateProductId": "14278582774774417",
-    "productName": "",
-    "submissionId": ""
+    "productName": "IshHeciExtensionTemplate_5.8.48.0_ATT_0924",
+    "submissionId": "1152921505699885486"
   },
   {
     "sharedProductId": "402413947",
     "privateProductId": "13585355731673100",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Wireless Bluetooth(R) 23.170.0.3 PCIe",
+    "submissionId": "1152921505699945103"
   },
   {
     "sharedProductId": "402413970",
     "privateProductId": "13898042114461086",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Wireless Bluetooth(R) 23.170.0.3 BASE",
+    "submissionId": "1152921505699944732"
   },
   {
     "sharedProductId": "402414057",
     "privateProductId": "13897152736169945",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Wireless Bluetooth(R) 23.170.0.3 BASE Lenovo",
+    "submissionId": "1152921505699945041"
   },
   {
     "sharedProductId": "402414075",
     "privateProductId": "13596412437268937",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:Yoga 7 2-in-1 14/16IML9 BIOS 1.24.0.0",
+    "submissionId": "1152921505699895878"
   },
   {
     "sharedProductId": "402415055",
@@ -3104,14 +3104,14 @@
   {
     "sharedProductId": "402416031",
     "privateProductId": "14151776493167104",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6388B_NB6389B_BIOS_V36",
+    "submissionId": "1152921505699902861"
   },
   {
     "sharedProductId": "402416848",
     "privateProductId": "13582517687203557",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MediaTek Wi-Fi 7 MT7925 Wireless LAN Card_V5.7.0.4669",
+    "submissionId": "1152921505699918889"
   },
   {
     "sharedProductId": "402417213",
@@ -3140,8 +3140,8 @@
   {
     "sharedProductId": "402419332",
     "privateProductId": "14022522091810978",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004300 - Base",
+    "submissionId": "1152921505700006734"
   },
   {
     "sharedProductId": "402419597",
@@ -3152,68 +3152,68 @@
   {
     "sharedProductId": "402420244",
     "privateProductId": "14440699754559995",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_IshHidMini",
+    "submissionId": "1152921505699917729"
   },
   {
     "sharedProductId": "402420350",
     "privateProductId": "14345726818089079",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_MEPOptInCameraExt",
+    "submissionId": "1152921505699917665"
   },
   {
     "sharedProductId": "402420448",
     "privateProductId": "14000840805818970",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_IshHeciExtensionTemplate",
+    "submissionId": "1152921505699917876"
   },
   {
     "sharedProductId": "402420476",
     "privateProductId": "13947035123744717",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_IshHidBus",
+    "submissionId": "1152921505699917845"
   },
   {
     "sharedProductId": "402420477",
     "privateProductId": "13834997028070703",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_IshHeci",
+    "submissionId": "1152921505699917933"
   },
   {
     "sharedProductId": "402420478",
     "privateProductId": "13581159148430955",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_IshIpcm",
+    "submissionId": "1152921505699917877"
   },
   {
     "sharedProductId": "402420531",
     "privateProductId": "14571520403524430",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_MEPOptInCameraExt_V2",
+    "submissionId": "1152921505699917955"
   },
   {
     "sharedProductId": "402420532",
     "privateProductId": "13925525511543260",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_IshOed",
+    "submissionId": "1152921505699917956"
   },
   {
     "sharedProductId": "402420583",
     "privateProductId": "13642607502825492",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_PMT",
+    "submissionId": "1152921505699917814"
   },
   {
     "sharedProductId": "402420584",
     "privateProductId": "14131247456782402",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_ibtpci_V2",
+    "submissionId": "1152921505699917815"
   },
   {
     "sharedProductId": "402420809",
     "privateProductId": "14113759389178858",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_32.0.101.8075_Ext",
+    "submissionId": "1152921505699919448"
   },
   {
     "sharedProductId": "402420810",
@@ -3224,14 +3224,14 @@
   {
     "sharedProductId": "402420926",
     "privateProductId": "14197377954899018",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel®Dynamic Tuning - 9.1.10001.173 - SW",
+    "submissionId": "1152921505700348433"
   },
   {
     "sharedProductId": "402421024",
     "privateProductId": "13829592577225824",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel®Dynamic Tuning - 9.1.10001.173 - EXT",
+    "submissionId": "1152921505700348318"
   },
   {
     "sharedProductId": "402421225",
@@ -3248,32 +3248,32 @@
   {
     "sharedProductId": "402421397",
     "privateProductId": "13579363146355994",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ICPS Network Extension 40.25.926.173",
+    "submissionId": "1152921505699949112"
   },
   {
     "sharedProductId": "402421398",
     "privateProductId": "14216648973299163",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ICPS Network Component 40.25.926.173",
+    "submissionId": "1152921505699949144"
   },
   {
     "sharedProductId": "402422086",
     "privateProductId": "14098965341710227",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ExtRtk_9887_WHQL_WIKO",
+    "submissionId": "1152921505699923748"
   },
   {
     "sharedProductId": "402422259",
     "privateProductId": "14450995679401889",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Codec_9887_UAD_WHQL_WIKO",
+    "submissionId": "1152921505699923776"
   },
   {
     "sharedProductId": "402422260",
     "privateProductId": "14634850668011307",
-    "productName": "",
-    "submissionId": ""
+    "productName": "SWC_9887_UAD_WHQL_WIKO",
+    "submissionId": "1152921505699923732"
   },
   {
     "sharedProductId": "402422481",
@@ -3296,20 +3296,20 @@
   {
     "sharedProductId": "402422692",
     "privateProductId": "13620348385266087",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_MEP_AudioComponent_3.0.2.0",
+    "submissionId": "1152921505699927192"
   },
   {
     "sharedProductId": "402422783",
     "privateProductId": "14378768795099767",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PEL_MEPExtension_3.0.2.0",
+    "submissionId": "1152921505699927286"
   },
   {
     "sharedProductId": "402422950",
     "privateProductId": "13629101008454011",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_MEP_CameraComponent_3.0.2.0",
+    "submissionId": "1152921505699927008"
   },
   {
     "sharedProductId": "402423569",
@@ -3326,110 +3326,110 @@
   {
     "sharedProductId": "402424132",
     "privateProductId": "13689290414270256",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_ISH_HECI_5.8.47.0_V2",
+    "submissionId": "1152921505699932167"
   },
   {
     "sharedProductId": "402424147",
     "privateProductId": "13826144976877633",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_ISST_20.43.12331.8_ES_base",
+    "submissionId": "1152921505699933473"
   },
   {
     "sharedProductId": "402424148",
     "privateProductId": "14245095031486224",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_MVA_1.0.3973.0_ES_ext",
+    "submissionId": "1152921505699933474"
   },
   {
     "sharedProductId": "402424159",
     "privateProductId": "14220162737150143",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_Synaptics_Touchpad_19.5.35.315",
+    "submissionId": "1152921505699932312"
   },
   {
     "sharedProductId": "402424203",
     "privateProductId": "13611398723093590",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_Synaptics_Touchpad_19.5.35.315_V2",
+    "submissionId": "1152921505699932246"
   },
   {
     "sharedProductId": "402424252",
     "privateProductId": "13644457748644724",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_Intel_HECI_Ext_5.8.43.0",
+    "submissionId": "1152921505699932365"
   },
   {
     "sharedProductId": "402424307",
     "privateProductId": "14166764117908908",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_ISH_HECI_5.8.47.0",
+    "submissionId": "1152921505699932076"
   },
   {
     "sharedProductId": "402424330",
     "privateProductId": "14389032582420602",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_Intel_HECI_Ext_5.8.43.0_V2",
+    "submissionId": "1152921505699932344"
   },
   {
     "sharedProductId": "402424355",
     "privateProductId": "13817274829517498",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_NPU_32.0.100.4299",
+    "submissionId": "1152921505699933614"
   },
   {
     "sharedProductId": "402424409",
     "privateProductId": "13647196103496757",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_Graphics_ext_8181",
+    "submissionId": "1152921505699933365"
   },
   {
     "sharedProductId": "402424501",
     "privateProductId": "14299430473848093",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_DTT_9.1.10000.127",
+    "submissionId": "1152921505699933643"
   },
   {
     "sharedProductId": "402424527",
     "privateProductId": "14132796547159158",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_Intel_GFX_32.0.101.8181_base",
+    "submissionId": "1152921505699933417"
   },
   {
     "sharedProductId": "402424609",
     "privateProductId": "13835668876153915",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_ISST_20.43.12397.0_ES_ATT",
+    "submissionId": "1152921505699933969"
   },
   {
     "sharedProductId": "402424610",
     "privateProductId": "14564043768615263",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_ISST_20.43.12397.0_MVA_ES_ATT",
+    "submissionId": "1152921505699933940"
   },
   {
     "sharedProductId": "402424629",
     "privateProductId": "14043286759217757",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_NPU_ext_32.0.100.4299",
+    "submissionId": "1152921505699933475"
   },
   {
     "sharedProductId": "402424630",
     "privateProductId": "13980349252167809",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_MVA_1.0.3973.0_QS",
+    "submissionId": "1152921505699933655"
   },
   {
     "sharedProductId": "402425093",
     "privateProductId": "13812737746247032",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WLAN_23.165.0.5_Ext",
+    "submissionId": "1152921505699935495"
   },
   {
     "sharedProductId": "402425176",
     "privateProductId": "13615565252204636",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WLAN_23.165.0.5_Base",
+    "submissionId": "1152921505699935345"
   },
   {
     "sharedProductId": "402425177",
@@ -3440,14 +3440,14 @@
   {
     "sharedProductId": "402425694",
     "privateProductId": "13983373623548100",
-    "productName": "",
-    "submissionId": ""
+    "productName": "dchu_SIO_HP_OB",
+    "submissionId": "1152921505699939743"
   },
   {
     "sharedProductId": "402425804",
     "privateProductId": "14101268741037361",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_ACM_ATT",
+    "submissionId": "1152921505699939644"
   },
   {
     "sharedProductId": "402427099",
@@ -3464,8 +3464,8 @@
   {
     "sharedProductId": "402428302",
     "privateProductId": "13892334714912476",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Chipset_10.1.56.27_merged",
+    "submissionId": "1152921505700252998"
   },
   {
     "sharedProductId": "402429562",
@@ -3476,8 +3476,8 @@
   {
     "sharedProductId": "402429729",
     "privateProductId": "14376457575905608",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LegionGo 8ASP2 BIOS 1.11",
+    "submissionId": "1152921505699954145"
   },
   {
     "sharedProductId": "402430223",
@@ -3488,50 +3488,50 @@
   {
     "sharedProductId": "402431015",
     "privateProductId": "14531278148883653",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:Yoga 7 2-in-1 14/16 ILL10 BIOS 1.15.0.0",
+    "submissionId": "1152921505699959931"
   },
   {
     "sharedProductId": "402431464",
     "privateProductId": "13751653551801964",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_IshHidMini",
+    "submissionId": "1152921505699961309"
   },
   {
     "sharedProductId": "402431633",
     "privateProductId": "14580538461628368",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_IshHeciExtensionTemplate",
+    "submissionId": "1152921505699961257"
   },
   {
     "sharedProductId": "402431634",
     "privateProductId": "14187366182025194",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_IshHidBus",
+    "submissionId": "1152921505699961258"
   },
   {
     "sharedProductId": "402431635",
     "privateProductId": "14545807452252738",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_IshOed",
+    "submissionId": "1152921505699961259"
   },
   {
     "sharedProductId": "402431705",
     "privateProductId": "14329592295535399",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_ISST_MVA_v01.00.3973.00_ATT",
+    "submissionId": "1152921505699962233"
   },
   {
     "sharedProductId": "402431712",
     "privateProductId": "13561328300472016",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_IshIpcm",
+    "submissionId": "1152921505699961367"
   },
   {
     "sharedProductId": "402431756",
     "privateProductId": "14386339839003198",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_VGA_Ext_32.0.101.8179_ATT",
+    "submissionId": "1152921505699962121"
   },
   {
     "sharedProductId": "402431779",
@@ -3542,98 +3542,98 @@
   {
     "sharedProductId": "402431781",
     "privateProductId": "14453455849699756",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_PTL_IshHeci",
+    "submissionId": "1152921505699962002"
   },
   {
     "sharedProductId": "402431783",
     "privateProductId": "13732675218537666",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_DTT_SW_9.0.12362.65008_ATT",
+    "submissionId": "1152921505699962007"
   },
   {
     "sharedProductId": "402431785",
     "privateProductId": "13773776672488727",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_ICLS_1.79.13.0_ATT",
+    "submissionId": "1152921505699962009"
   },
   {
     "sharedProductId": "402431799",
     "privateProductId": "13521525474174424",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_IshHeci_ATT",
+    "submissionId": "1152921505699961483"
   },
   {
     "sharedProductId": "402431848",
     "privateProductId": "14473856061084125",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_DTT_EXT_9.0.12362.65008_ATT",
+    "submissionId": "1152921505699962175"
   },
   {
     "sharedProductId": "402431851",
     "privateProductId": "14011944441196084",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_ISSI_2532.0.64.0_ATT",
+    "submissionId": "1152921505699962178"
   },
   {
     "sharedProductId": "402431852",
     "privateProductId": "14487913415919390",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_MEI_2532.0.40.0_ATT",
+    "submissionId": "1152921505699962179"
   },
   {
     "sharedProductId": "402431853",
     "privateProductId": "13733533409078836",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_NPU_base_32.0.100.4291_ATT",
+    "submissionId": "1152921505699962180"
   },
   {
     "sharedProductId": "402431865",
     "privateProductId": "14410417294509766",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_VGA_Base_32.0.101.8179_ATT",
+    "submissionId": "1152921505699961922"
   },
   {
     "sharedProductId": "402431867",
     "privateProductId": "13672639437296744",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_ISST_Base_v20.43.12331.0_ATT",
+    "submissionId": "1152921505699961925"
   },
   {
     "sharedProductId": "402431874",
     "privateProductId": "14440839297532642",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_NPU_base_32.0.100.4291_ATT",
+    "submissionId": "1152921505699962434"
   },
   {
     "sharedProductId": "402431891",
     "privateProductId": "14485163456995504",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_NPU_base_32.0.100.4291_ATT",
+    "submissionId": "1152921505699962108"
   },
   {
     "sharedProductId": "402431921",
     "privateProductId": "13555125242398332",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_MEWMIProv_2532.0.45.0_ATT",
+    "submissionId": "1152921505699962270"
   },
   {
     "sharedProductId": "402431949",
     "privateProductId": "14022662407612440",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_IPF_2.3.20160.3915v2_ATT",
+    "submissionId": "1152921505699962268"
   },
   {
     "sharedProductId": "402431979",
     "privateProductId": "14636396281041936",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel_WCL_WW38_NPU_Ext_32.0.100.4291_ATT",
+    "submissionId": "1152921505699962235"
   },
   {
     "sharedProductId": "402432324",
     "privateProductId": "14006916748720897",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Legion Go 2 HPT V13 Test WU",
+    "submissionId": "1152921505699965922"
   },
   {
     "sharedProductId": "402432765",
@@ -3644,44 +3644,44 @@
   {
     "sharedProductId": "402433129",
     "privateProductId": "14142135200334404",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_PTL_IshHeci_1013",
+    "submissionId": "1152921505699968995"
   },
   {
     "sharedProductId": "402434393",
     "privateProductId": "13586808688511001",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Graham_qcdxext_3900_DUA",
+    "submissionId": "1152921505699972311"
   },
   {
     "sharedProductId": "402435095",
     "privateProductId": "14511279485473259",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Graham_qcdxext_3900_DUA_V2",
+    "submissionId": "1152921505699976238"
   },
   {
     "sharedProductId": "402435181",
     "privateProductId": "14206927963809607",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_PTL_ISST_20.43.12422.0_ATT",
+    "submissionId": "1152921505699976708"
   },
   {
     "sharedProductId": "402435515",
     "privateProductId": "13891544776895491",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7203PQ_BIOS_1.12.0.0",
+    "submissionId": "1152921505699977478"
   },
   {
     "sharedProductId": "402435745",
     "privateProductId": "14063424859579043",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_Monitor_25.9.25.1",
+    "submissionId": "1152921505699977861"
   },
   {
     "sharedProductId": "402435898",
     "privateProductId": "14392994643647512",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Acer_NB6297C_BIOS_1.03_Test",
+    "submissionId": "1152921505699978254"
   },
   {
     "sharedProductId": "402435950",
@@ -3692,230 +3692,230 @@
   {
     "sharedProductId": "402436686",
     "privateProductId": "13816526173544136",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7603B_V09_Test",
+    "submissionId": "1152921505699980700"
   },
   {
     "sharedProductId": "402436732",
     "privateProductId": "14155780999288977",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7603A_BIOS_V12_Test",
+    "submissionId": "1152921505699980519"
   },
   {
     "sharedProductId": "402436925",
     "privateProductId": "13719915969798305",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcacsp_crd8480_3900",
+    "submissionId": "1152921505699982105"
   },
   {
     "sharedProductId": "402436926",
     "privateProductId": "14158361669558684",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcascd_ext_crd8480_3900",
+    "submissionId": "1152921505699982110"
   },
   {
     "sharedProductId": "402436977",
     "privateProductId": "13683196290190372",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcaucd_ext_crd8480_3900R_20251015003356_Signed",
+    "submissionId": "1152921505699982483"
   },
   {
     "sharedProductId": "402436983",
     "privateProductId": "14471899411566148",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcdiagcsi8480_V2",
+    "submissionId": "1152921505699982503"
   },
   {
     "sharedProductId": "402437040",
     "privateProductId": "14422207607226087",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_QcPmicApps8480",
+    "submissionId": "1152921505699982346"
   },
   {
     "sharedProductId": "402437041",
     "privateProductId": "13877252650827068",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcSensorConfigCrd8480_3900",
+    "submissionId": "1152921505699982350"
   },
   {
     "sharedProductId": "402437083",
     "privateProductId": "14021385666158127",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcaucd_ext_crd8480_3900",
+    "submissionId": "1152921505699982145"
   },
   {
     "sharedProductId": "402437084",
     "privateProductId": "13938389369729353",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcbattminiclass8480",
+    "submissionId": "1152921505699982146"
   },
   {
     "sharedProductId": "402437085",
     "privateProductId": "14594098100805634",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcrdbg8480",
+    "submissionId": "1152921505699982148"
   },
   {
     "sharedProductId": "402437086",
     "privateProductId": "14364898844438718",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcsubsys_ext_adsp8480_3900",
+    "submissionId": "1152921505699982451"
   },
   {
     "sharedProductId": "402437112",
     "privateProductId": "14266612722516719",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcasd_apo8480_3900",
+    "submissionId": "1152921505699982240"
   },
   {
     "sharedProductId": "402437113",
     "privateProductId": "13564546102862465",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcasd_CRD_Extension8480_3900",
+    "submissionId": "1152921505699982246"
   },
   {
     "sharedProductId": "402437170",
     "privateProductId": "14592223813551792",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_ProximityDriver",
+    "submissionId": "1152921505699981871"
   },
   {
     "sharedProductId": "402437171",
     "privateProductId": "14190747373988776",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcascd_ext_crd8480",
+    "submissionId": "1152921505699981873"
   },
   {
     "sharedProductId": "402437204",
     "privateProductId": "14569014986547457",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_PBU_QC_qcasd8480_3900",
+    "submissionId": "1152921505699982308"
   },
   {
     "sharedProductId": "402437263",
     "privateProductId": "14410650182458683",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcadcm8480_3900",
+    "submissionId": "1152921505699981995"
   },
   {
     "sharedProductId": "402437264",
     "privateProductId": "14620605444598615",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcascd8480_3900",
+    "submissionId": "1152921505699981998"
   },
   {
     "sharedProductId": "402437292",
     "privateProductId": "13804254652328534",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_Camera_MEP_Ext_3.0.3.0",
+    "submissionId": "1152921505699982048"
   },
   {
     "sharedProductId": "402437298",
     "privateProductId": "13800185443175201",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_QCListenSM8480_3900",
+    "submissionId": "1152921505699982311"
   },
   {
     "sharedProductId": "402437322",
     "privateProductId": "14627256763186972",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcaxu8480_3900",
+    "submissionId": "1152921505699982078"
   },
   {
     "sharedProductId": "402437323",
     "privateProductId": "14012032751412115",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcdiagcsi8480",
+    "submissionId": "1152921505699982079"
   },
   {
     "sharedProductId": "402437328",
     "privateProductId": "13991380007636628",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_QC_qcrdbg8480_V2",
+    "submissionId": "1152921505699982603"
   },
   {
     "sharedProductId": "402437353",
     "privateProductId": "14257677019127014",
-    "productName": "",
-    "submissionId": ""
+    "productName": "hp_obu_QC_qcppx8480",
+    "submissionId": "1152921505699982272"
   },
   {
     "sharedProductId": "402437380",
     "privateProductId": "14164226809557529",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcasd_CRD_Extension8480_3900R_20251015003144_Signed",
+    "submissionId": "1152921505699982424"
   },
   {
     "sharedProductId": "402437409",
     "privateProductId": "14423953440718237",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcasd8480_3900R_20251015003256_Signed",
+    "submissionId": "1152921505699982423"
   },
   {
     "sharedProductId": "402437820",
     "privateProductId": "13924756258985237",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Intel_GFX_32.0.101.8184_Base_DUA_ATT",
+    "submissionId": "1152921505699985367"
   },
   {
     "sharedProductId": "402437839",
     "privateProductId": "13918906464212710",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Intel_GFX_32.0.101.8184_Ext_DUA_ATT",
+    "submissionId": "1152921505699985455"
   },
   {
     "sharedProductId": "402437850",
     "privateProductId": "13907045480432830",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_AudioServiceExt_27.0.4.31",
+    "submissionId": "1152921505699985824"
   },
   {
     "sharedProductId": "402437878",
     "privateProductId": "14383646352205039",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_Histen_27.0.4.35",
+    "submissionId": "1152921505699985755"
   },
   {
     "sharedProductId": "402437880",
     "privateProductId": "13996672822044953",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_HWAudioExt_27.0.1.3",
+    "submissionId": "1152921505699985757"
   },
   {
     "sharedProductId": "402437881",
     "privateProductId": "14408862586694313",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_AudioService_27.0.4.47",
+    "submissionId": "1152921505699985760"
   },
   {
     "sharedProductId": "402437885",
     "privateProductId": "13961807517654927",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_AudioVQE_27.0.4.50",
+    "submissionId": "1152921505699985765"
   },
   {
     "sharedProductId": "402437907",
     "privateProductId": "14387899678010950",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcacsp_crd8480_3900R_20251015003053_Signed",
+    "submissionId": "1152921505699985576"
   },
   {
     "sharedProductId": "402437995",
     "privateProductId": "14590449052190640",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_AudioHWVEPost_27.0.1.1",
+    "submissionId": "1152921505699985730"
   },
   {
     "sharedProductId": "402437999",
     "privateProductId": "14617051382104134",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcacsp_crd8480_3900R_V2",
+    "submissionId": "1152921505699985737"
   },
   {
     "sharedProductId": "402438075",
     "privateProductId": "13827731292392157",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_DMICExt_27.0.0.4",
+    "submissionId": "1152921505699985616"
   },
   {
     "sharedProductId": "402438093",
@@ -3926,20 +3926,20 @@
   {
     "sharedProductId": "402438383",
     "privateProductId": "14380375601505980",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1044.0.557_Owl",
+    "submissionId": "1152921505699997562"
   },
   {
     "sharedProductId": "402438615",
     "privateProductId": "13816925004813432",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Intel_GFX_32.0.101.8184_Base_DUA_ATT_v2",
+    "submissionId": "1152921505699987476"
   },
   {
     "sharedProductId": "402438833",
     "privateProductId": "14058858459004897",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Intel_ACM_1.21.16.0_ATT",
+    "submissionId": "1152921505699988475"
   },
   {
     "sharedProductId": "402439253",
@@ -3950,44 +3950,44 @@
   {
     "sharedProductId": "402439611",
     "privateProductId": "13708057795185225",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_BT_24.0.1.",
+    "submissionId": "1152921505699991449"
   },
   {
     "sharedProductId": "402439752",
     "privateProductId": "13740647515051062",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_Wifi_EB_24.10.0.1",
+    "submissionId": "1152921505699991363"
   },
   {
     "sharedProductId": "402439753",
     "privateProductId": "14372707276751920",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB_wifi_ext",
+    "submissionId": "1152921505699991368"
   },
   {
     "sharedProductId": "402440836",
     "privateProductId": "13840968808089960",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MediaTek Wi-Fi 7 MT7925 Wireless LAN Card_V5.7.0.4755",
+    "submissionId": "1152921505699998194"
   },
   {
     "sharedProductId": "402440919",
     "privateProductId": "13808414367813269",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.8243 Base",
+    "submissionId": "1152921505700002742"
   },
   {
     "sharedProductId": "402440949",
     "privateProductId": "14164638597174448",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.8243 Ext",
+    "submissionId": "1152921505700002544"
   },
   {
     "sharedProductId": "402440977",
     "privateProductId": "14611757204417668",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ICPS Network Component 50.25.1014.171",
+    "submissionId": "1152921505700010542"
   },
   {
     "sharedProductId": "402440999",
@@ -3998,8 +3998,8 @@
   {
     "sharedProductId": "402441085",
     "privateProductId": "14519376177536479",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ICPS Network Extension 50.25.1014.171",
+    "submissionId": "1152921505700010284"
   },
   {
     "sharedProductId": "402441222",
@@ -4016,8 +4016,8 @@
   {
     "sharedProductId": "402441509",
     "privateProductId": "13991422321210803",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBU_IshHeciExtensionTemplate_1",
+    "submissionId": "1152921505699998182"
   },
   {
     "sharedProductId": "402442307",
@@ -4028,8 +4028,8 @@
   {
     "sharedProductId": "402442351",
     "privateProductId": "14301430090916225",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_B3402FVA_308",
+    "submissionId": "1152921505700000235"
   },
   {
     "sharedProductId": "402442882",
@@ -4052,32 +4052,32 @@
   {
     "sharedProductId": "402444241",
     "privateProductId": "14211644655821529",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6305B Halzan2_TKN_V1.06 Test",
+    "submissionId": "1152921505700009285"
   },
   {
     "sharedProductId": "402444346",
     "privateProductId": "13765893490788444",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LegionGoS 8ARP1 BIOS V25 TEST WU",
+    "submissionId": "1152921505700008299"
   },
   {
     "sharedProductId": "402444402",
     "privateProductId": "14571530652780047",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Legion Go S 8APU1 V25 BIOS TEST WU",
+    "submissionId": "1152921505700008584"
   },
   {
     "sharedProductId": "402444502",
     "privateProductId": "13567864831111155",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6303B Picotin2_TKN_V1.06 Test",
+    "submissionId": "1152921505700009372"
   },
   {
     "sharedProductId": "402444729",
     "privateProductId": "14292095282375921",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7203G_BIOS_1.25.0.0_Test",
+    "submissionId": "1152921505700009744"
   },
   {
     "sharedProductId": "402444950",
@@ -4094,14 +4094,14 @@
   {
     "sharedProductId": "402445383",
     "privateProductId": "14604337095881837",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Intel_GFX_32.0.101.8188_Base_DUA_ATT",
+    "submissionId": "1152921505700013565"
   },
   {
     "sharedProductId": "402445441",
     "privateProductId": "13516190520028244",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Intel_GFX_32.0.101.8188_Ext_DUA_ATT",
+    "submissionId": "1152921505700013531"
   },
   {
     "sharedProductId": "402445650",
@@ -4448,14 +4448,14 @@
   {
     "sharedProductId": "402454655",
     "privateProductId": "13863417062557967",
-    "productName": "",
-    "submissionId": ""
+    "productName": "PTL_IGCL-16.1.0.257_232425_SW",
+    "submissionId": "1152921505700425737"
   },
   {
     "sharedProductId": "402454818",
     "privateProductId": "14397317672913443",
-    "productName": "",
-    "submissionId": ""
+    "productName": "PTL_IGCL-16.1.0.257_232425_EXT",
+    "submissionId": "1152921505700425800"
   },
   {
     "sharedProductId": "402454819",
@@ -4526,8 +4526,8 @@
   {
     "sharedProductId": "402457721",
     "privateProductId": "14629875198279858",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Management Engine WMI Provider 2544.8.3.0",
+    "submissionId": "1152921505700252663"
   },
   {
     "sharedProductId": "402458036",
@@ -4736,8 +4736,8 @@
   {
     "sharedProductId": "402461505",
     "privateProductId": "14249686567302588",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AMD_PSP_5.42.0.0_Win11_25H2_24H2_23H2_21H2_W10_22H2",
+    "submissionId": "1152921505700250459"
   },
   {
     "sharedProductId": "402461542",
@@ -4814,8 +4814,8 @@
   {
     "sharedProductId": "402463121",
     "privateProductId": "14017200693548115",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Zhuque_Xuanwu_Lvzhou_Linhai_Monitor_20.6.8.18_25H2",
+    "submissionId": "1152921505701156922"
   },
   {
     "sharedProductId": "402463210",
@@ -4880,8 +4880,8 @@
   {
     "sharedProductId": "402463776",
     "privateProductId": "14294384100818904",
-    "productName": "",
-    "submissionId": ""
+    "productName": "GFP_U3.0.83.170_W11_25H2_20251104",
+    "submissionId": "1152921505700425506"
   },
   {
     "sharedProductId": "402464132",
@@ -4958,8 +4958,8 @@
   {
     "sharedProductId": "402465944",
     "privateProductId": "14374747281068359",
-    "productName": "",
-    "submissionId": ""
+    "productName": "GFP_U3.4.876.1020_W11_24H2_25H2_20251105",
+    "submissionId": "1152921505700431363"
   },
   {
     "sharedProductId": "402467348",
@@ -5240,8 +5240,8 @@
   {
     "sharedProductId": "402475817",
     "privateProductId": "14268270638974696",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AMD Micro PEP Device v1.0.47.0 Certification",
+    "submissionId": "1152921505700343554"
   },
   {
     "sharedProductId": "402475948",
@@ -5342,56 +5342,56 @@
   {
     "sharedProductId": "402478554",
     "privateProductId": "13788116979204454",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Zhuque_Xuanwu_WDT_1.0.24.38_25H2",
+    "submissionId": "1152921505701156986"
   },
   {
     "sharedProductId": "402478745",
     "privateProductId": "13826389238328137",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20251114_100.1.4.2582_ext_Codec_RTExt_iGo",
+    "submissionId": "1152921505700348340"
   },
   {
     "sharedProductId": "402479004",
     "privateProductId": "13768529930663630",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20251114_100.1.4.2582_apo",
+    "submissionId": "1152921505700348080"
   },
   {
     "sharedProductId": "402479064",
     "privateProductId": "13671375647859618",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20251114_100.1.4.2582_ext_Intc_DMicExt_iGo",
+    "submissionId": "1152921505700348308"
   },
   {
     "sharedProductId": "402479089",
     "privateProductId": "13563811427754446",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20251114_100.1.4.2582_ext_Amd_DMicExt_iGo",
+    "submissionId": "1152921505700348437"
   },
   {
     "sharedProductId": "402479091",
     "privateProductId": "13569362986727833",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20251114_100.1.4.2582_ext_Codec_Cirrus_Ext_iGo",
+    "submissionId": "1152921505700348199"
   },
   {
     "sharedProductId": "402479146",
     "privateProductId": "14393904182128389",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20251114_100.1.4.2582_service",
+    "submissionId": "1152921505700348337"
   },
   {
     "sharedProductId": "402479206",
     "privateProductId": "14241117133791676",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20251114_100.1.4.2582_ext",
+    "submissionId": "1152921505700348143"
   },
   {
     "sharedProductId": "402479509",
     "privateProductId": "14102668349757998",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Dirac_APO_v1.7.1.48_20251113_W1022H2_W1122H22425H2",
+    "submissionId": "1152921505700343680"
   },
   {
     "sharedProductId": "402479617",
@@ -5564,8 +5564,8 @@
   {
     "sharedProductId": "402482560",
     "privateProductId": "14245652593800461",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AMD_PPMPF_8.0.0.60_25h2_24h2_22h2_21h2_w10",
+    "submissionId": "1152921505700250619"
   },
   {
     "sharedProductId": "402482580",
@@ -5858,8 +5858,8 @@
   {
     "sharedProductId": "402485435",
     "privateProductId": "13986282836447431",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel Management Engine Interface 2546.8.9.0 win10",
+    "submissionId": "1152921505700252585"
   },
   {
     "sharedProductId": "402485453",
@@ -5990,8 +5990,8 @@
   {
     "sharedProductId": "402488348",
     "privateProductId": "13731698053708816",
-    "productName": "",
-    "submissionId": ""
+    "productName": "audio_acpbus2_7.0.3.55 (automation)",
+    "submissionId": "1152921505700250533"
   },
   {
     "sharedProductId": "402488368",
@@ -6032,8 +6032,8 @@
   {
     "sharedProductId": "402488485",
     "privateProductId": "13989570708814484",
-    "productName": "",
-    "submissionId": ""
+    "productName": "audio_acpafd_6.0.3.61 (automation)",
+    "submissionId": "1152921505700250649"
   },
   {
     "sharedProductId": "402488501",
@@ -6056,8 +6056,8 @@
   {
     "sharedProductId": "402489145",
     "privateProductId": "13617347530059040",
-    "productName": "",
-    "submissionId": ""
+    "productName": "audio_acprgm-ext_7.0.25.0 (automation)",
+    "submissionId": "1152921505700250258"
   },
   {
     "sharedProductId": "402489270",
@@ -6530,8 +6530,8 @@
   {
     "sharedProductId": "402501296",
     "privateProductId": "14393965917095443",
-    "productName": "",
-    "submissionId": ""
+    "productName": "audio_acpbus_6.0.1.82 (automation)",
+    "submissionId": "1152921505700250295"
   },
   {
     "sharedProductId": "402501449",
@@ -6572,8 +6572,8 @@
   {
     "sharedProductId": "402502718",
     "privateProductId": "13936972601616560",
-    "productName": "",
-    "submissionId": ""
+    "productName": "DTS APO4x EXT 1.15.47.0 24H2 25H2 for HP",
+    "submissionId": "1152921505700301200"
   },
   {
     "sharedProductId": "402502782",
@@ -7544,8 +7544,8 @@
   {
     "sharedProductId": "402505722",
     "privateProductId": "14577611404873272",
-    "productName": "",
-    "submissionId": ""
+    "productName": "pmt_3.1.2.6_v3",
+    "submissionId": "1152921505700316496"
   },
   {
     "sharedProductId": "402506052",
@@ -7592,8 +7592,8 @@
   {
     "sharedProductId": "402507308",
     "privateProductId": "14490080772247256",
-    "productName": "",
-    "submissionId": ""
+    "productName": "CTE_NB_AL156P2_TKN_V1.05",
+    "submissionId": "1152921505700236131"
   },
   {
     "sharedProductId": "402507336",
@@ -7610,14 +7610,14 @@
   {
     "sharedProductId": "402507507",
     "privateProductId": "13985282803511968",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcsubsys_ext_adsp8480_4100Refuse",
+    "submissionId": "1152921505700236434"
   },
   {
     "sharedProductId": "402507659",
     "privateProductId": "14107608818799308",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcdx8480_4100efuse",
+    "submissionId": "1152921505700236409"
   },
   {
     "sharedProductId": "402507687",
@@ -7634,8 +7634,8 @@
   {
     "sharedProductId": "402507713",
     "privateProductId": "13553201872125032",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcnspmcdm8480_4300efuse",
+    "submissionId": "1152921505700236180"
   },
   {
     "sharedProductId": "402507816",
@@ -7706,8 +7706,8 @@
   {
     "sharedProductId": "402509331",
     "privateProductId": "13549195059900296",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1045.0.566_Owl",
+    "submissionId": "1152921505700252305"
   },
   {
     "sharedProductId": "402509893",
@@ -7718,44 +7718,44 @@
   {
     "sharedProductId": "402510347",
     "privateProductId": "14260758421089847",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MediaTek Wi-Fi 7 MT7925 Wireless LAN Card_V5.7.0.5115",
+    "submissionId": "1152921505700314411"
   },
   {
     "sharedProductId": "402510915",
     "privateProductId": "14019187334218900",
-    "productName": "",
-    "submissionId": ""
+    "productName": "SdcaTITASXu-12082025-6.2.1.20-HP_25H2_24H2",
+    "submissionId": "1152921505700344809"
   },
   {
     "sharedProductId": "402511000",
     "privateProductId": "14031641786811202",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:IdeaPad 5 2-in-1 14Q8X9 BIOS 1.28.0.0",
+    "submissionId": "1152921505700248576"
   },
   {
     "sharedProductId": "402511927",
     "privateProductId": "14565560478486881",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7266A_BIOS_1.20.0.0_WIN11",
+    "submissionId": "1152921505700253162"
   },
   {
     "sharedProductId": "402512017",
     "privateProductId": "14314798666974809",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB6388B_BIOS_1.37_Test_20251209",
+    "submissionId": "1152921505700252867"
   },
   {
     "sharedProductId": "402512176",
     "privateProductId": "13556243869649486",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Softroll_diagrouter_8600_DUA_WHQL_24H2_25H2",
+    "submissionId": "1152921505700252611"
   },
   {
     "sharedProductId": "402512219",
     "privateProductId": "13984751435400143",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7203PQ_BIOS_1.18.0.0_251209",
+    "submissionId": "1152921505700252986"
   },
   {
     "sharedProductId": "402512292",
@@ -7982,8 +7982,8 @@
   {
     "sharedProductId": "402513784",
     "privateProductId": "14059510964303850",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_HidBus_5.8.58_25H2_24H2_23H2",
+    "submissionId": "1152921505700395138"
   },
   {
     "sharedProductId": "402513785",
@@ -8006,14 +8006,14 @@
   {
     "sharedProductId": "402513924",
     "privateProductId": "14570805847508478",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_HECI_5.8.61_25H2_24H2_23H2",
+    "submissionId": "1152921505700395054"
   },
   {
     "sharedProductId": "402513925",
     "privateProductId": "13982821054899904",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_HidMini_5.8.58_25H2_24H2_23H2",
+    "submissionId": "1152921505700395146"
   },
   {
     "sharedProductId": "402513955",
@@ -8204,8 +8204,8 @@
   {
     "sharedProductId": "402517582",
     "privateProductId": "13958091953686910",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AMDPMF v25.9.16.0 - Gorgon Point Certification",
+    "submissionId": "1152921505700343984"
   },
   {
     "sharedProductId": "402517702",
@@ -8216,8 +8216,8 @@
   {
     "sharedProductId": "402517762",
     "privateProductId": "14582566289468392",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.10.3.3 DCH-BASE",
+    "submissionId": "1152921505700304097"
   },
   {
     "sharedProductId": "402517763",
@@ -8234,8 +8234,8 @@
   {
     "sharedProductId": "402517870",
     "privateProductId": "13906349071658437",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004512 - Base",
+    "submissionId": "1152921505700309019"
   },
   {
     "sharedProductId": "402518002",
@@ -8342,20 +8342,20 @@
   {
     "sharedProductId": "402519906",
     "privateProductId": "14112697690610401",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Ethernet Controller I219-V",
+    "submissionId": "1152921505700315052"
   },
   {
     "sharedProductId": "402520861",
     "privateProductId": "14046179876584313",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Microarray Fingerprint Reader(DFX support)",
+    "submissionId": "1152921505700293218"
   },
   {
     "sharedProductId": "402520909",
     "privateProductId": "13543499317518548",
-    "productName": "",
-    "submissionId": ""
+    "productName": "REALTEK Bluetooth 18.4032.2512.1000 251210 Gen52BT",
+    "submissionId": "1152921505700738232"
   },
   {
     "sharedProductId": "402521257",
@@ -8378,20 +8378,20 @@
   {
     "sharedProductId": "402523009",
     "privateProductId": "14151881911186888",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISST 20.43.12573.0 W11",
+    "submissionId": "1152921505700313907"
   },
   {
     "sharedProductId": "402524244",
     "privateProductId": "14318577713772245",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.10.4.1 DCH-BASE",
+    "submissionId": "1152921505701157357"
   },
   {
     "sharedProductId": "402524246",
     "privateProductId": "14425074243110369",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.10.4.1 Special Config",
+    "submissionId": "1152921505701157299"
   },
   {
     "sharedProductId": "402526226",
@@ -8462,80 +8462,80 @@
   {
     "sharedProductId": "402530975",
     "privateProductId": "13669743960243211",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:motobook 60 14IRH10 BIOS 1.7.0.0",
+    "submissionId": "1152921505700318917"
   },
   {
     "sharedProductId": "402531052",
     "privateProductId": "14198933726918480",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7603A_BIOS_V13_Test_25H2",
+    "submissionId": "1152921505700319088"
   },
   {
     "sharedProductId": "402531269",
     "privateProductId": "13835031386381123",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcdiagcsi8480_20251223131352",
+    "submissionId": "1152921505700319949"
   },
   {
     "sharedProductId": "402531359",
     "privateProductId": "14625818652445118",
-    "productName": "",
-    "submissionId": ""
+    "productName": "intel_Gfx_32.0.101.8132_sign_1223",
+    "submissionId": "1152921505700319642"
   },
   {
     "sharedProductId": "402531365",
     "privateProductId": "14422497951801284",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7817CD_BIOS_1.14.0.0",
+    "submissionId": "1152921505700319648"
   },
   {
     "sharedProductId": "402531388",
     "privateProductId": "13872967584129722",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7603B_V10_Test_25H2",
+    "submissionId": "1152921505700319716"
   },
   {
     "sharedProductId": "402531389",
     "privateProductId": "13822256108495966",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcacsp_crd8480_4300_new_20251223131451",
+    "submissionId": "1152921505700319718"
   },
   {
     "sharedProductId": "402531401",
     "privateProductId": "14605908736696927",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcascd_ext_crd8480_4400x1_20251223131351",
+    "submissionId": "1152921505700319889"
   },
   {
     "sharedProductId": "402531403",
     "privateProductId": "14104292701009989",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcdx8480_hpkey_20251223131456",
+    "submissionId": "1152921505700319860"
   },
   {
     "sharedProductId": "402531467",
     "privateProductId": "13530951459244304",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ProximityDriver_20251223131351",
+    "submissionId": "1152921505700319781"
   },
   {
     "sharedProductId": "402531468",
     "privateProductId": "13617017047335127",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcbattminiclass8480_20251223131352",
+    "submissionId": "1152921505700319782"
   },
   {
     "sharedProductId": "402531746",
     "privateProductId": "14502356155764375",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Wireless Bluetooth(R) 24.20.0.3 PCIe",
+    "submissionId": "1152921505700432901"
   },
   {
     "sharedProductId": "402531785",
     "privateProductId": "14407750121410361",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD SWC 6.0.9921.1 HP_Branch7",
+    "submissionId": "1152921505700330412"
   },
   {
     "sharedProductId": "402531813",
@@ -8546,8 +8546,8 @@
   {
     "sharedProductId": "402531840",
     "privateProductId": "14150421281358766",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD 6.0.9921.1 ExtRtk_IntPCH2_Rev_735_HP",
+    "submissionId": "1152921505700330352"
   },
   {
     "sharedProductId": "402531842",
@@ -8564,8 +8564,8 @@
   {
     "sharedProductId": "402531900",
     "privateProductId": "13865918570340254",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD 6.0.9921.1 ExtRtk_IntCustomize_Rev_248_HP",
+    "submissionId": "1152921505700330351"
   },
   {
     "sharedProductId": "402531906",
@@ -8582,8 +8582,8 @@
   {
     "sharedProductId": "402531922",
     "privateProductId": "14426330407723944",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio SWC 6.0.9921.1 APO(12) Win10 HP_B7_CAPX",
+    "submissionId": "1152921505700330413"
   },
   {
     "sharedProductId": "402531933",
@@ -8624,8 +8624,8 @@
   {
     "sharedProductId": "402532064",
     "privateProductId": "13705383012990537",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD 6.0.9921.1 ExtRtk_IntPCH_188_HP",
+    "submissionId": "1152921505700330489"
   },
   {
     "sharedProductId": "402532065",
@@ -8780,8 +8780,8 @@
   {
     "sharedProductId": "402534020",
     "privateProductId": "14390567766852719",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AMD_SFH1.1_Driver_1.1.0.36_Win11_25H2_24H2_22H2_21H2",
+    "submissionId": "1152921505700397963"
   },
   {
     "sharedProductId": "402534172",
@@ -9308,20 +9308,20 @@
   {
     "sharedProductId": "402539990",
     "privateProductId": "14562852825096264",
-    "productName": "",
-    "submissionId": ""
+    "productName": "intel_Gfx_32.0.101.8331_8229A",
+    "submissionId": "1152921505700344236"
   },
   {
     "sharedProductId": "402540269",
     "privateProductId": "14259449556024732",
-    "productName": "",
-    "submissionId": ""
+    "productName": "intel_Gfx_32.0.101.8132cfc_sign",
+    "submissionId": "1152921505700345100"
   },
   {
     "sharedProductId": "402540290",
     "privateProductId": "13925809251332171",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Scooter_BIOS_F.06",
+    "submissionId": "1152921505700344635"
   },
   {
     "sharedProductId": "402540367",
@@ -9332,14 +9332,14 @@
   {
     "sharedProductId": "402540385",
     "privateProductId": "14243614228054722",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6363B_BIOS_V2.10_Test",
+    "submissionId": "1152921505700345121"
   },
   {
     "sharedProductId": "402540429",
     "privateProductId": "14087805559691125",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBX_25C2_BIOS_F.01",
+    "submissionId": "1152921505700344575"
   },
   {
     "sharedProductId": "402540566",
@@ -9362,8 +9362,8 @@
   {
     "sharedProductId": "402540686",
     "privateProductId": "13958972560795903",
-    "productName": "",
-    "submissionId": ""
+    "productName": "intel_Gfx_32.0.101.8331_yaoming_sign",
+    "submissionId": "1152921505700345805"
   },
   {
     "sharedProductId": "402540706",
@@ -9422,14 +9422,14 @@
   {
     "sharedProductId": "402541388",
     "privateProductId": "13805587379947081",
-    "productName": "",
-    "submissionId": ""
+    "productName": "FocalFPdriverWin11_25H2 v4.7.9901.6806 multi sensor",
+    "submissionId": "1152921505700591719"
   },
   {
     "sharedProductId": "402541537",
     "privateProductId": "14340390285308517",
-    "productName": "",
-    "submissionId": ""
+    "productName": "22qcaucd_ext_crd8480_4500",
+    "submissionId": "1152921505700349137"
   },
   {
     "sharedProductId": "402541563",
@@ -9440,20 +9440,20 @@
   {
     "sharedProductId": "402541594",
     "privateProductId": "13808313345159182",
-    "productName": "",
-    "submissionId": ""
+    "productName": "20_qcasd8480_4500",
+    "submissionId": "1152921505700348921"
   },
   {
     "sharedProductId": "402541675",
     "privateProductId": "14585528095569887",
-    "productName": "",
-    "submissionId": ""
+    "productName": "21_qcasd_CRD_Extension8480_4500",
+    "submissionId": "1152921505700348972"
   },
   {
     "sharedProductId": "402541784",
     "privateProductId": "13670191252376651",
-    "productName": "",
-    "submissionId": ""
+    "productName": "23qcdxext_crd8480_4400x1",
+    "submissionId": "1152921505700349469"
   },
   {
     "sharedProductId": "402542166",
@@ -9638,14 +9638,14 @@
   {
     "sharedProductId": "402548013",
     "privateProductId": "13861129330223355",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260108_100.1.4.2652_ext_Codec_Cirrus_Ext_iGo",
+    "submissionId": "1152921505701087891"
   },
   {
     "sharedProductId": "402548014",
     "privateProductId": "13553673326079458",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260108_100.1.4.2652_ext_Codec_RTExt_iGo",
+    "submissionId": "1152921505701087555"
   },
   {
     "sharedProductId": "402548040",
@@ -9656,8 +9656,8 @@
   {
     "sharedProductId": "402548053",
     "privateProductId": "14008384215536200",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Realtek USB 2.0&USB 3.0 PC Camera Driver V20401",
+    "submissionId": "1152921505701156863"
   },
   {
     "sharedProductId": "402548066",
@@ -9668,20 +9668,20 @@
   {
     "sharedProductId": "402548095",
     "privateProductId": "13899803467941623",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260108_100.1.4.2652_ext_Intc_DMicExt_iGo",
+    "submissionId": "1152921505701087552"
   },
   {
     "sharedProductId": "402548157",
     "privateProductId": "14081076440382773",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260108_100.1.4.2652_service",
+    "submissionId": "1152921505701087750"
   },
   {
     "sharedProductId": "402548281",
     "privateProductId": "14117345748348516",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.20.0.4 DCH-BASE",
+    "submissionId": "1152921505700424920"
   },
   {
     "sharedProductId": "402548283",
@@ -9698,8 +9698,8 @@
   {
     "sharedProductId": "402548513",
     "privateProductId": "14454965083625711",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R)PROSet Wireless WiFi 24.1020.0.1 PIE Comp INF",
+    "submissionId": "1152921505700424968"
   },
   {
     "sharedProductId": "402548594",
@@ -9890,8 +9890,8 @@
   {
     "sharedProductId": "402552150",
     "privateProductId": "13765562873363944",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.10.3.7 DCH Lenovo",
+    "submissionId": "1152921505700428786"
   },
   {
     "sharedProductId": "402552239",
@@ -9932,8 +9932,8 @@
   {
     "sharedProductId": "402553498",
     "privateProductId": "14034086881500872",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.20.1.3 DCH Lenovo",
+    "submissionId": "1152921505700657726"
   },
   {
     "sharedProductId": "402553525",
@@ -9944,8 +9944,8 @@
   {
     "sharedProductId": "402553670",
     "privateProductId": "14443075780398721",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.20.1.3 DCH-BASE",
+    "submissionId": "1152921505700657644"
   },
   {
     "sharedProductId": "402554051",
@@ -9956,50 +9956,50 @@
   {
     "sharedProductId": "402554234",
     "privateProductId": "13918833892319573",
-    "productName": "",
-    "submissionId": ""
+    "productName": "AMD_SFH1.1_Driver_1.1.0.37_Win11_25H2_24H2_22H2_21H2",
+    "submissionId": "1152921505700773707"
   },
   {
     "sharedProductId": "402554519",
     "privateProductId": "13601410125868518",
-    "productName": "",
-    "submissionId": ""
+    "productName": "CTE_NB_AL156P1_TKN_V1.10",
+    "submissionId": "1152921505700395470"
   },
   {
     "sharedProductId": "402554605",
     "privateProductId": "14438583355886619",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7870B_BIOS_1.18.0.0_260114",
+    "submissionId": "1152921505700395736"
   },
   {
     "sharedProductId": "402554716",
     "privateProductId": "14244722802118939",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB6837LM_1.24.0.0",
+    "submissionId": "1152921505700396038"
   },
   {
     "sharedProductId": "402555071",
     "privateProductId": "14288788491056611",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcppx8480_Signed",
+    "submissionId": "1152921505700397145"
   },
   {
     "sharedProductId": "402555130",
     "privateProductId": "13528324998317729",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcnspmcdm8480_Signed",
+    "submissionId": "1152921505700396983"
   },
   {
     "sharedProductId": "402555592",
     "privateProductId": "14182894195234802",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7817J_BIOS_1.15.0.0_20260115",
+    "submissionId": "1152921505700399857"
   },
   {
     "sharedProductId": "402556492",
     "privateProductId": "14549744568301768",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004561 - Base",
+    "submissionId": "1152921505700628959"
   },
   {
     "sharedProductId": "402556659",
@@ -10010,8 +10010,8 @@
   {
     "sharedProductId": "402556823",
     "privateProductId": "14623478171222798",
-    "productName": "",
-    "submissionId": ""
+    "productName": "qcnspmcdm8480_Signed",
+    "submissionId": "1152921505700405039"
   },
   {
     "sharedProductId": "402556836",
@@ -10022,38 +10022,38 @@
   {
     "sharedProductId": "402556885",
     "privateProductId": "14604066951540009",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7870B_BIOS_1.19.0.0_260116_test",
+    "submissionId": "1152921505700404662"
   },
   {
     "sharedProductId": "402556927",
     "privateProductId": "13580551668496605",
-    "productName": "",
-    "submissionId": ""
+    "productName": "04.Intel_WCL_MVA_v20.43.12513.0_QS",
+    "submissionId": "1152921505700405673"
   },
   {
     "sharedProductId": "402556953",
     "privateProductId": "13900554881632717",
-    "productName": "",
-    "submissionId": ""
+    "productName": "01.Intel_WCL_Chipset_10.1.59.8",
+    "submissionId": "1152921505700405530"
   },
   {
     "sharedProductId": "402556954",
     "privateProductId": "13572489018403579",
-    "productName": "",
-    "submissionId": ""
+    "productName": "07.Intel_WCL_MEI_2552.0.91.0",
+    "submissionId": "1152921505700405532"
   },
   {
     "sharedProductId": "402556984",
     "privateProductId": "13892286727676671",
-    "productName": "",
-    "submissionId": ""
+    "productName": "20._DTSXUltra_1_15_52_0",
+    "submissionId": "1152921505700405502"
   },
   {
     "sharedProductId": "402557019",
     "privateProductId": "13833662141284726",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:motobook 60 14IAH10 BIOS 1.7.0.0",
+    "submissionId": "1152921505700405089"
   },
   {
     "sharedProductId": "402557026",
@@ -10064,26 +10064,26 @@
   {
     "sharedProductId": "402557055",
     "privateProductId": "13731095786622988",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_VM441QA_QcTreeExtQcom8380_25H2",
+    "submissionId": "1152921505700405223"
   },
   {
     "sharedProductId": "402557069",
     "privateProductId": "13612441666779866",
-    "productName": "",
-    "submissionId": ""
+    "productName": "09.Intel_WCL_DTT_9.1.10005.898",
+    "submissionId": "1152921505700405555"
   },
   {
     "sharedProductId": "402557071",
     "privateProductId": "14481906044918139",
-    "productName": "",
-    "submissionId": ""
+    "productName": "12.Intel_WCL_NPU_32.0.100.4561",
+    "submissionId": "1152921505700405558"
   },
   {
     "sharedProductId": "402557150",
     "privateProductId": "13522452265234645",
-    "productName": "",
-    "submissionId": ""
+    "productName": "07.Intel_WCL_WMIProvider_2552.0.91.0",
+    "submissionId": "1152921505700405724"
   },
   {
     "sharedProductId": "402557192",
@@ -10172,8 +10172,8 @@
   {
     "sharedProductId": "402559028",
     "privateProductId": "14131789738932720",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1045.0.568_Owl",
+    "submissionId": "1152921505700431040"
   },
   {
     "sharedProductId": "402559211",
@@ -10262,14 +10262,14 @@
   {
     "sharedProductId": "402562499",
     "privateProductId": "14068882866080542",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_VM441QA_qcacsp_crd8380_5073.112.0.3_25H2",
+    "submissionId": "1152921505700425089"
   },
   {
     "sharedProductId": "402562535",
     "privateProductId": "14085342207725611",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_WifiDrv08Customizations_24.20.0.4_ATT",
+    "submissionId": "1152921505700425330"
   },
   {
     "sharedProductId": "402562630",
@@ -10280,14 +10280,14 @@
   {
     "sharedProductId": "402562631",
     "privateProductId": "14051665804916893",
-    "productName": "",
-    "submissionId": ""
+    "productName": "QCaudcd8380_8600_for_Factory_arm64",
+    "submissionId": "1152921505700424641"
   },
   {
     "sharedProductId": "402562739",
     "privateProductId": "14380683926129279",
-    "productName": "",
-    "submissionId": ""
+    "productName": "SdcaTITASXu-01082026-6.0.3.24-ASUS_TSign",
+    "submissionId": "1152921505700425970"
   },
   {
     "sharedProductId": "402563246",
@@ -10316,26 +10316,26 @@
   {
     "sharedProductId": "402563880",
     "privateProductId": "14616065010755223",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7817CD_BIOS_1.15.0.0",
+    "submissionId": "1152921505700431259"
   },
   {
     "sharedProductId": "402564026",
     "privateProductId": "14245541067362860",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_VM441QA_qcsubsys_ext_cdsp8380_30.0.0216.0000_25H2",
+    "submissionId": "1152921505700431619"
   },
   {
     "sharedProductId": "402564143",
     "privateProductId": "13591164056009531",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OB5_qcascd8480_4500_Fixheadphonemic",
+    "submissionId": "1152921505700431911"
   },
   {
     "sharedProductId": "402564343",
     "privateProductId": "13924861030196811",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_Test_NB6380GH_BIOS_1.32.0.0",
+    "submissionId": "1152921505700432652"
   },
   {
     "sharedProductId": "402564894",
@@ -10442,14 +10442,14 @@
   {
     "sharedProductId": "402569161",
     "privateProductId": "14497512422862285",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_OED_5.8.64_25H2_24H2_23H2",
+    "submissionId": "1152921505700635731"
   },
   {
     "sharedProductId": "402569162",
     "privateProductId": "13673924577064269",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_HidMini_5.8.64_25H2_24H2_23H2",
+    "submissionId": "1152921505700635643"
   },
   {
     "sharedProductId": "402569196",
@@ -10460,26 +10460,26 @@
   {
     "sharedProductId": "402569355",
     "privateProductId": "14318718016786978",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_HECI_5.8.65_25H2_24H2_23H2",
+    "submissionId": "1152921505700635455"
   },
   {
     "sharedProductId": "402569385",
     "privateProductId": "13981090611205952",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_HidBus_5.8.64_25H2_24H2_23H2",
+    "submissionId": "1152921505700635793"
   },
   {
     "sharedProductId": "402569439",
     "privateProductId": "13826245833971021",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISH_HeciExtension_5.8.64_25H2_24H2_23H2",
+    "submissionId": "1152921505700635244"
   },
   {
     "sharedProductId": "402569569",
     "privateProductId": "14151429357468385",
-    "productName": "",
-    "submissionId": ""
+    "productName": "DTS APO4x EXT 1.16.0.0 25H2 for HP",
+    "submissionId": "1152921505700653168"
   },
   {
     "sharedProductId": "402571704",
@@ -10730,8 +10730,8 @@
   {
     "sharedProductId": "402580516",
     "privateProductId": "14071098491826302",
-    "productName": "",
-    "submissionId": ""
+    "productName": "FocalFPDriver25H2 V4.7.9901.6896 multi sensor ASUS",
+    "submissionId": "1152921505700657302"
   },
   {
     "sharedProductId": "402581409",
@@ -10940,8 +10940,8 @@
   {
     "sharedProductId": "402583009",
     "privateProductId": "14097470321713430",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260205_100.1.4.2684_apo",
+    "submissionId": "1152921505700580714"
   },
   {
     "sharedProductId": "402583010",
@@ -11006,8 +11006,8 @@
   {
     "sharedProductId": "402583675",
     "privateProductId": "14614972298358944",
-    "productName": "",
-    "submissionId": ""
+    "productName": "REALTEK Bluetooth 18.4038.2509.1901 260202 Gen8852BE",
+    "submissionId": "1152921505700984411"
   },
   {
     "sharedProductId": "402583777",
@@ -11114,8 +11114,8 @@
   {
     "sharedProductId": "402586970",
     "privateProductId": "13969211793335772",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISST 20.43.12622.0 W11",
+    "submissionId": "1152921505700982845"
   },
   {
     "sharedProductId": "402586998",
@@ -11150,8 +11150,8 @@
   {
     "sharedProductId": "402588034",
     "privateProductId": "13642428282383505",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) PROSet Wireless WiFi 24.1030.0.2 PIE Ext INF",
+    "submissionId": "1152921505700721043"
   },
   {
     "sharedProductId": "402588243",
@@ -11162,8 +11162,8 @@
   {
     "sharedProductId": "402588264",
     "privateProductId": "14581603067384236",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R)PROSet Wireless WiFi 24.1030.0.2 PIE Comp INF",
+    "submissionId": "1152921505700720833"
   },
   {
     "sharedProductId": "402588346",
@@ -11240,26 +11240,26 @@
   {
     "sharedProductId": "402589201",
     "privateProductId": "14467151019013789",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD 6.0.9951.1 ExtRtk_AmdDMIC_308 HP",
+    "submissionId": "1152921505700768248"
   },
   {
     "sharedProductId": "402589325",
     "privateProductId": "13978796903923810",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD 6.0.9951.1 ExtRtk_IntPCH2_Rev_749_HP",
+    "submissionId": "1152921505700768167"
   },
   {
     "sharedProductId": "402589386",
     "privateProductId": "13734508168645161",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD 6.0.9951.1 ExtRtk_IntCustomize_112_HP",
+    "submissionId": "1152921505700768205"
   },
   {
     "sharedProductId": "402589387",
     "privateProductId": "13906643531273780",
-    "productName": "",
-    "submissionId": ""
+    "productName": "RealtekAudio UAD 6.0.9951.1 ExtRtk_IntCustomize_Rev_248_HP",
+    "submissionId": "1152921505700768021"
   },
   {
     "sharedProductId": "402589468",
@@ -11276,8 +11276,8 @@
   {
     "sharedProductId": "402589533",
     "privateProductId": "14130067028654790",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.8314 Ext",
+    "submissionId": "1152921505700603705"
   },
   {
     "sharedProductId": "402589588",
@@ -11330,8 +11330,8 @@
   {
     "sharedProductId": "402589990",
     "privateProductId": "13544225618280834",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Graphics Driver b101.8314 Base",
+    "submissionId": "1152921505700603146"
   },
   {
     "sharedProductId": "402590085",
@@ -11462,8 +11462,8 @@
   {
     "sharedProductId": "402593074",
     "privateProductId": "13554256182052028",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1146.0.575_Owl",
+    "submissionId": "1152921505700585030"
   },
   {
     "sharedProductId": "402593292",
@@ -11516,8 +11516,8 @@
   {
     "sharedProductId": "402595035",
     "privateProductId": "14315453198172906",
-    "productName": "",
-    "submissionId": ""
+    "productName": "audio_acpbus2_7.0.3.58 (automation)",
+    "submissionId": "1152921505700768624"
   },
   {
     "sharedProductId": "402596200",
@@ -11534,44 +11534,44 @@
   {
     "sharedProductId": "402601892",
     "privateProductId": "14213269092213534",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ExtRtk_9929_WHQL_Honor",
+    "submissionId": "1152921505700582974"
   },
   {
     "sharedProductId": "402601893",
     "privateProductId": "14282210303705347",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ExtRtk_APO_Tuning_1_161_WHQL_Honor",
+    "submissionId": "1152921505700582880"
   },
   {
     "sharedProductId": "402602131",
     "privateProductId": "13982141801492866",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ExtRtk_IntPCH2_Rev_737_WHQL_Honor",
+    "submissionId": "1152921505700582856"
   },
   {
     "sharedProductId": "402602134",
     "privateProductId": "14482151524975203",
-    "productName": "",
-    "submissionId": ""
+    "productName": "SWC_9929_UAD_WHQL_Honor",
+    "submissionId": "1152921505700583229"
   },
   {
     "sharedProductId": "402602302",
     "privateProductId": "14180757626902163",
-    "productName": "",
-    "submissionId": ""
+    "productName": "APO_13_9929_UAD_WHQL_Honor",
+    "submissionId": "1152921505700582711"
   },
   {
     "sharedProductId": "402602386",
     "privateProductId": "14583427742761981",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Codec_9929_UAD_WHQL_Honor",
+    "submissionId": "1152921505700582654"
   },
   {
     "sharedProductId": "402603091",
     "privateProductId": "14568977399479934",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ICPS Network Component 50.26.220.212",
+    "submissionId": "1152921505700609174"
   },
   {
     "sharedProductId": "402603538",
@@ -11582,8 +11582,8 @@
   {
     "sharedProductId": "402603560",
     "privateProductId": "14122124703557780",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ICPS Network Extension 50.26.220.212",
+    "submissionId": "1152921505700609084"
   },
   {
     "sharedProductId": "402603732",
@@ -11594,20 +11594,20 @@
   {
     "sharedProductId": "402603926",
     "privateProductId": "13726638459954215",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HwOs2Ec_17.0.8.456",
+    "submissionId": "1152921505700585441"
   },
   {
     "sharedProductId": "402603998",
     "privateProductId": "13989135181111346",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3406CGA_FP_6285",
+    "submissionId": "1152921505700586809"
   },
   {
     "sharedProductId": "402604089",
     "privateProductId": "14237232563664074",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Microsoft SDCA 10.0.2603.1",
+    "submissionId": "1152921505700585541"
   },
   {
     "sharedProductId": "402604104",
@@ -11648,20 +11648,20 @@
   {
     "sharedProductId": "402605539",
     "privateProductId": "14125209669424240",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_PM5606CGA_205",
+    "submissionId": "1152921505700591723"
   },
   {
     "sharedProductId": "402605691",
     "privateProductId": "14364771468430033",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7203PQ_Lenovo_L24M3PK2_BatteryWU_101.0.0.106_24H2",
+    "submissionId": "1152921505700592602"
   },
   {
     "sharedProductId": "402605855",
     "privateProductId": "13624664454317070",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3406CHA_301",
+    "submissionId": "1152921505700593236"
   },
   {
     "sharedProductId": "402605904",
@@ -11738,8 +11738,8 @@
   {
     "sharedProductId": "402607046",
     "privateProductId": "14204803285184231",
-    "productName": "",
-    "submissionId": ""
+    "productName": "DTS APO4x EXT 1.16.2.0 25H2 for HP",
+    "submissionId": "1152921505700773765"
   },
   {
     "sharedProductId": "402607082",
@@ -11804,8 +11804,8 @@
   {
     "sharedProductId": "402607653",
     "privateProductId": "14020108756245279",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBX_26C1_BIOS_F.01",
+    "submissionId": "1152921505700601619"
   },
   {
     "sharedProductId": "402607668",
@@ -11816,14 +11816,14 @@
   {
     "sharedProductId": "402607712",
     "privateProductId": "14216833883502747",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ISST 20.40.12641.0 W10 W11",
+    "submissionId": "1152921505700725097"
   },
   {
     "sharedProductId": "402607714",
     "privateProductId": "14450872827193393",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1204FTA_307",
+    "submissionId": "1152921505700600565"
   },
   {
     "sharedProductId": "402607730",
@@ -11840,20 +11840,20 @@
   {
     "sharedProductId": "402607748",
     "privateProductId": "14397597521262299",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1204FGA_308",
+    "submissionId": "1152921505700600823"
   },
   {
     "sharedProductId": "402607853",
     "privateProductId": "13589032318377531",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1204FGA_308",
+    "submissionId": "1152921505700600528"
   },
   {
     "sharedProductId": "402608012",
     "privateProductId": "13941604206811800",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Scooter_26C1_BIOS_F.01",
+    "submissionId": "1152921505700601136"
   },
   {
     "sharedProductId": "402608021",
@@ -11876,44 +11876,44 @@
   {
     "sharedProductId": "402609246",
     "privateProductId": "14122118732466261",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6099C_BIOS_P11CFP.025",
+    "submissionId": "1152921505700605408"
   },
   {
     "sharedProductId": "402609382",
     "privateProductId": "14286575757464434",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7961A_BIOS_P0505",
+    "submissionId": "1152921505700604947"
   },
   {
     "sharedProductId": "402609467",
     "privateProductId": "13543034586433881",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:motobook 60 14IAH10 Battery 101.0.0.106",
+    "submissionId": "1152921505700604848"
   },
   {
     "sharedProductId": "402609471",
     "privateProductId": "14514105621336138",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_B3302CEA_315",
+    "submissionId": "1152921505700604706"
   },
   {
     "sharedProductId": "402609561",
     "privateProductId": "13749409631123211",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Complete",
+    "submissionId": "1152921505700605155"
   },
   {
     "sharedProductId": "402609562",
     "privateProductId": "13590282359041114",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_PM5606CGA_205",
+    "submissionId": "1152921505700605158"
   },
   {
     "sharedProductId": "402609692",
     "privateProductId": "14118476216285204",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7203C_BIOS_1.20.0.0_Battery_24H2_Test2",
+    "submissionId": "1152921505700607363"
   },
   {
     "sharedProductId": "402609762",
@@ -11924,8 +11924,8 @@
   {
     "sharedProductId": "402610102",
     "privateProductId": "14480688852910472",
-    "productName": "",
-    "submissionId": ""
+    "productName": "WIKO_VHID_13.0.6.121",
+    "submissionId": "1152921505700607564"
   },
   {
     "sharedProductId": "402610290",
@@ -12110,8 +12110,8 @@
   {
     "sharedProductId": "402614712",
     "privateProductId": "14561380303695970",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.30.1.1 DCH-BASE",
+    "submissionId": "1152921505700720940"
   },
   {
     "sharedProductId": "402614827",
@@ -12164,20 +12164,20 @@
   {
     "sharedProductId": "402615510",
     "privateProductId": "13577906385185634",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNL SINIT ACM Driver v1.20.22 (25H2/24H2/23H2) Resign",
+    "submissionId": "1152921505700769581"
   },
   {
     "sharedProductId": "402615971",
     "privateProductId": "14576613598387820",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:IdeaPad Slim 5 14_16IPH11 BIOS 1.24.0.0_T",
+    "submissionId": "1152921505700630369"
   },
   {
     "sharedProductId": "402616657",
     "privateProductId": "14117913650651726",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LENOVO_NB7817AB_BIOS_1.21.0.0_Test",
+    "submissionId": "1152921505700633853"
   },
   {
     "sharedProductId": "402616992",
@@ -12188,26 +12188,26 @@
   {
     "sharedProductId": "402617456",
     "privateProductId": "14534641294276271",
-    "productName": "",
-    "submissionId": ""
+    "productName": "DisplayDriver_1.0.3.27",
+    "submissionId": "1152921505700635928"
   },
   {
     "sharedProductId": "402617494",
     "privateProductId": "14335851166635374",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Scooter_26C1_BIOS_F.02",
+    "submissionId": "1152921505700636251"
   },
   {
     "sharedProductId": "402617607",
     "privateProductId": "13954728665288792",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBX_26C1_BIOS_F.02",
+    "submissionId": "1152921505700636423"
   },
   {
     "sharedProductId": "402617686",
     "privateProductId": "14079860961574618",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_Scooter_26C1_BIOS_F.01_NEW",
+    "submissionId": "1152921505700636306"
   },
   {
     "sharedProductId": "402617826",
@@ -12230,26 +12230,26 @@
   {
     "sharedProductId": "402618959",
     "privateProductId": "14334163826813847",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Mediatek Bluetooth Audio Device_v1.6.0.48",
+    "submissionId": "1152921505700650728"
   },
   {
     "sharedProductId": "402619021",
     "privateProductId": "14629379186454750",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1146.0.576_WDI_BF",
+    "submissionId": "1152921505700651155"
   },
   {
     "sharedProductId": "402619162",
     "privateProductId": "13582086906878629",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MediaTek Wi-Fi 6E MT7920 160MHz WLAN Card_3.5.0.1383_NB",
+    "submissionId": "1152921505700651846"
   },
   {
     "sharedProductId": "402619163",
     "privateProductId": "14122066253442652",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MediaTek Wi-Fi 6E MT7920 160MHz WLAN Card_V3.5.0.1383_B",
+    "submissionId": "1152921505700651848"
   },
   {
     "sharedProductId": "402619187",
@@ -12260,8 +12260,8 @@
   {
     "sharedProductId": "402619270",
     "privateProductId": "14286637726531316",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1146.0.576_WDI_NBF",
+    "submissionId": "1152921505700651188"
   },
   {
     "sharedProductId": "402619336",
@@ -12296,14 +12296,14 @@
   {
     "sharedProductId": "402622099",
     "privateProductId": "14133493334471048",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6363B_BIOS_V2.11_Test",
+    "submissionId": "1152921505700650993"
   },
   {
     "sharedProductId": "402622133",
     "privateProductId": "14260148051783528",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Acer_NB6363A_BIOS_1.11_Test",
+    "submissionId": "1152921505700651282"
   },
   {
     "sharedProductId": "402622386",
@@ -12344,8 +12344,8 @@
   {
     "sharedProductId": "402622685",
     "privateProductId": "14332010627829939",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBX_26C1_BIOS_F.02_0309",
+    "submissionId": "1152921505700652840"
   },
   {
     "sharedProductId": "402622731",
@@ -12410,8 +12410,8 @@
   {
     "sharedProductId": "402623217",
     "privateProductId": "13865841467266651",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ExtRtk_APO_Tuning_9951_7_177 HP",
+    "submissionId": "1152921505700768276"
   },
   {
     "sharedProductId": "402623253",
@@ -12422,14 +12422,14 @@
   {
     "sharedProductId": "402623281",
     "privateProductId": "14581087513915463",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel®Application Optimization - 9.1.10008.1694-Ext",
+    "submissionId": "1152921505701196707"
   },
   {
     "sharedProductId": "402623305",
     "privateProductId": "14347968253113034",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7203M_Lenovo_L24M3PK2_BatteryWU_25H2",
+    "submissionId": "1152921505700654274"
   },
   {
     "sharedProductId": "402623409",
@@ -12440,8 +12440,8 @@
   {
     "sharedProductId": "402623414",
     "privateProductId": "14068621900866262",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel®Application Optimization- 9.1.10008.1694 -Win",
+    "submissionId": "1152921505701196676"
   },
   {
     "sharedProductId": "402623439",
@@ -12476,8 +12476,8 @@
   {
     "sharedProductId": "402623477",
     "privateProductId": "14277290263691465",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel®Dynamic Tuning - 9.1.10008.1694 -Sw",
+    "submissionId": "1152921505701196734"
   },
   {
     "sharedProductId": "402623556",
@@ -12494,14 +12494,14 @@
   {
     "sharedProductId": "402623585",
     "privateProductId": "13560233489109617",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_ThinkBook 14GB+ IPH_BIOS",
+    "submissionId": "1152921505700657113"
   },
   {
     "sharedProductId": "402623858",
     "privateProductId": "14162008581552947",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_SMB TB+_PDWU",
+    "submissionId": "1152921505700657231"
   },
   {
     "sharedProductId": "402624001",
@@ -12512,8 +12512,8 @@
   {
     "sharedProductId": "402624200",
     "privateProductId": "14631338453058081",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_VM441QA_204",
+    "submissionId": "1152921505700658369"
   },
   {
     "sharedProductId": "402624456",
@@ -12524,8 +12524,8 @@
   {
     "sharedProductId": "402624461",
     "privateProductId": "14319083370352585",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:IdeaPad Slim 5 14_16IPH11 BIOS 1.24.0.0_T1",
+    "submissionId": "1152921505700658588"
   },
   {
     "sharedProductId": "402624486",
@@ -12542,8 +12542,8 @@
   {
     "sharedProductId": "402625637",
     "privateProductId": "14633916974109332",
-    "productName": "",
-    "submissionId": ""
+    "productName": "DTS APO4x EXT 1.16.4.0 25H2 for HP",
+    "submissionId": "1152921505700773547"
   },
   {
     "sharedProductId": "402625793",
@@ -12920,8 +12920,8 @@
   {
     "sharedProductId": "402637942",
     "privateProductId": "13824939281228277",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004561 - Base",
+    "submissionId": "1152921505700728840"
   },
   {
     "sharedProductId": "402638201",
@@ -12968,8 +12968,8 @@
   {
     "sharedProductId": "402638675",
     "privateProductId": "14547206095529120",
-    "productName": "",
-    "submissionId": ""
+    "productName": "OB5_PTL_BIOS F06 Windows Update",
+    "submissionId": "1152921505700716989"
   },
   {
     "sharedProductId": "402638716",
@@ -12992,44 +12992,44 @@
   {
     "sharedProductId": "402638870",
     "privateProductId": "13973495817768233",
-    "productName": "",
-    "submissionId": ""
+    "productName": "OB5_RPL_BIOS F06 Windows Update",
+    "submissionId": "1152921505700717070"
   },
   {
     "sharedProductId": "402638916",
     "privateProductId": "14019720428966237",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HQ_Panel_Driver_1.0.0.0",
+    "submissionId": "1152921505700717690"
   },
   {
     "sharedProductId": "402639087",
     "privateProductId": "14284384708510178",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7266A_Lenovo_L23C4PF3_BatteryWU",
+    "submissionId": "1152921505700718102"
   },
   {
     "sharedProductId": "402640890",
     "privateProductId": "13513574812952235",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Merci2_MTU_V1.06",
+    "submissionId": "1152921505700726119"
   },
   {
     "sharedProductId": "402641119",
     "privateProductId": "14126673693181185",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Mars_RTU_V1.08",
+    "submissionId": "1152921505700726432"
   },
   {
     "sharedProductId": "402641195",
     "privateProductId": "13833471855380932",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) Ethernet Connection I219 NDIS v12.19.2.68",
+    "submissionId": "1152921505701087035"
   },
   {
     "sharedProductId": "402641476",
     "privateProductId": "14207651939899453",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:NB7880AB L24M3PK2 101.0.0.106_T",
+    "submissionId": "1152921505700727231"
   },
   {
     "sharedProductId": "402641582",
@@ -13040,14 +13040,14 @@
   {
     "sharedProductId": "402641687",
     "privateProductId": "13995508103799587",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) NPU 1004724 - Base",
+    "submissionId": "1152921505700774508"
   },
   {
     "sharedProductId": "402642386",
     "privateProductId": "14181449257275990",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBUQ_26C1_BIOS_F.05",
+    "submissionId": "1152921505700731385"
   },
   {
     "sharedProductId": "402642426",
@@ -13064,14 +13064,14 @@
   {
     "sharedProductId": "402642481",
     "privateProductId": "14565587570758246",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_Test_NB6837J_BIOS_1.17.0.0",
+    "submissionId": "1152921505700731698"
   },
   {
     "sharedProductId": "402642519",
     "privateProductId": "13913398800196733",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LENOVO_NB7817AB_BIOS_1.21.0.0",
+    "submissionId": "1152921505700731486"
   },
   {
     "sharedProductId": "402642538",
@@ -13112,8 +13112,8 @@
   {
     "sharedProductId": "402644226",
     "privateProductId": "14451197592773705",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7870B_BIOS_1.23.0.0_260325_test",
+    "submissionId": "1152921505700738588"
   },
   {
     "sharedProductId": "402644972",
@@ -13328,8 +13328,8 @@
   {
     "sharedProductId": "402651344",
     "privateProductId": "14445548792111821",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB8127A_BIOS_P0505",
+    "submissionId": "1152921505700768341"
   },
   {
     "sharedProductId": "402651627",
@@ -13358,8 +13358,8 @@
   {
     "sharedProductId": "402651663",
     "privateProductId": "14578557933413630",
-    "productName": "",
-    "submissionId": ""
+    "productName": "HP_OBUI_26C1_PTL_BIOS_F.03",
+    "submissionId": "1152921505700769961"
   },
   {
     "sharedProductId": "402651693",
@@ -13394,14 +13394,14 @@
   {
     "sharedProductId": "402652097",
     "privateProductId": "13967465452288175",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:IdeaPad Slim 5 14_16IPH11 BIOS 1.25.0.0_T",
+    "submissionId": "1152921505700770402"
   },
   {
     "sharedProductId": "402652134",
     "privateProductId": "14567387614548311",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MooreB_BIOS300_New",
+    "submissionId": "1152921505700770641"
   },
   {
     "sharedProductId": "402652256",
@@ -13412,14 +13412,14 @@
   {
     "sharedProductId": "402652790",
     "privateProductId": "13725677451660429",
-    "productName": "",
-    "submissionId": ""
+    "productName": "OB5_RPL_BIOS F12 Windows Update",
+    "submissionId": "1152921505700773669"
   },
   {
     "sharedProductId": "402652959",
     "privateProductId": "13818706019578515",
-    "productName": "",
-    "submissionId": ""
+    "productName": "OB5_PTL_BIOS F12 Windows Update",
+    "submissionId": "1152921505700773365"
   },
   {
     "sharedProductId": "402655224",
@@ -13520,8 +13520,8 @@
   {
     "sharedProductId": "402657619",
     "privateProductId": "14010293455723743",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Realtek_WLAN_6001.15.163.1_Win11_25H2_24H2_23H2_Win10",
+    "submissionId": "1152921505700984174"
   },
   {
     "sharedProductId": "402657655",
@@ -13934,14 +13934,14 @@
   {
     "sharedProductId": "402672946",
     "privateProductId": "14440343537593749",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Realtek_WLAN_6001.15.164.0_Win11_25H2_24H2_23H2_Win10",
+    "submissionId": "1152921505701086540"
   },
   {
     "sharedProductId": "402673408",
     "privateProductId": "14266733076715274",
-    "productName": "",
-    "submissionId": ""
+    "productName": "GFP_U3.4.876.1050_W11_24H2_25H2_20260415",
+    "submissionId": "1152921505700982288"
   },
   {
     "sharedProductId": "402673671",
@@ -14426,8 +14426,8 @@
   {
     "sharedProductId": "402690241",
     "privateProductId": "14118065555692642",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Realtek_WLAN_6001.16.175.0_Win11_25H2_24H2_23H2_Win10",
+    "submissionId": "1152921505701086142"
   },
   {
     "sharedProductId": "402690262",
@@ -14582,14 +14582,14 @@
   {
     "sharedProductId": "402699665",
     "privateProductId": "13616677509947196",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB6767D_BIOS_1.23.0.0",
+    "submissionId": "1152921505700976771"
   },
   {
     "sharedProductId": "402699743",
     "privateProductId": "13843564426315274",
-    "productName": "",
-    "submissionId": ""
+    "productName": "MTK Generic Bluetooth v1.1146.0.596_Owl",
+    "submissionId": "1152921505700989946"
   },
   {
     "sharedProductId": "402700299",
@@ -14600,56 +14600,56 @@
   {
     "sharedProductId": "402700501",
     "privateProductId": "13980761445252699",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3406CGA_304",
+    "submissionId": "1152921505700982420"
   },
   {
     "sharedProductId": "402700744",
     "privateProductId": "13900785556332881",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3606CGAZ_304",
+    "submissionId": "1152921505700982378"
   },
   {
     "sharedProductId": "402700849",
     "privateProductId": "13847764385740850",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3406CGAZ_304",
+    "submissionId": "1152921505700982276"
   },
   {
     "sharedProductId": "402700894",
     "privateProductId": "14235473293543697",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7880EF_BIOS_1.12.0.0",
+    "submissionId": "1152921505700982876"
   },
   {
     "sharedProductId": "402700942",
     "privateProductId": "13794100160667081",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Lenovo_NB7203AB_BIOS_1.26.0.0",
+    "submissionId": "1152921505700982983"
   },
   {
     "sharedProductId": "402700975",
     "privateProductId": "14304799026736472",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3606CGA_304",
+    "submissionId": "1152921505700982135"
   },
   {
     "sharedProductId": "402701025",
     "privateProductId": "14436301035566218",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_PM5406CGA_304",
+    "submissionId": "1152921505700982625"
   },
   {
     "sharedProductId": "402701082",
     "privateProductId": "13766074982491984",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_PM5606CGA_304",
+    "submissionId": "1152921505700982335"
   },
   {
     "sharedProductId": "402701639",
     "privateProductId": "13512350051912376",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Acer_NB6297C_BIOS_1.05_Test",
+    "submissionId": "1152921505700986461"
   },
   {
     "sharedProductId": "402702510",
@@ -14840,14 +14840,14 @@
   {
     "sharedProductId": "402705878",
     "privateProductId": "13599551093819955",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260508_100.1.4.2756_ext_Intc_DMicExt_iGo",
+    "submissionId": "1152921505701087567"
   },
   {
     "sharedProductId": "402705926",
     "privateProductId": "13620299336964517",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260508_100.1.4.2756_ext_Codec_Cirrus_Ext_iGo",
+    "submissionId": "1152921505701087340"
   },
   {
     "sharedProductId": "402705994",
@@ -14858,8 +14858,8 @@
   {
     "sharedProductId": "402706069",
     "privateProductId": "14603812559047215",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260508_100.1.4.2756_ext_Amd_DMicExt_iGo",
+    "submissionId": "1152921505701087744"
   },
   {
     "sharedProductId": "402706082",
@@ -14876,8 +14876,8 @@
   {
     "sharedProductId": "402706161",
     "privateProductId": "13829261090217822",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260508_100.1.4.2756_ext",
+    "submissionId": "1152921505701087463"
   },
   {
     "sharedProductId": "402706234",
@@ -14888,20 +14888,20 @@
   {
     "sharedProductId": "402706311",
     "privateProductId": "14053868316013547",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260508_100.1.4.2756_apo",
+    "submissionId": "1152921505701087542"
   },
   {
     "sharedProductId": "402706314",
     "privateProductId": "13935548620886766",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260508_100.1.4.2756_ext_Codec_RTExt_iGo",
+    "submissionId": "1152921505701087622"
   },
   {
     "sharedProductId": "402706316",
     "privateProductId": "14471534122891810",
-    "productName": "",
-    "submissionId": ""
+    "productName": "igoapo_asus_V3_20260508_100.1.4.2756_service",
+    "submissionId": "1152921505701087483"
   },
   {
     "sharedProductId": "402706410",
@@ -15026,8 +15026,8 @@
   {
     "sharedProductId": "402716639",
     "privateProductId": "14003318762740338",
-    "productName": "",
-    "submissionId": ""
+    "productName": "KillerNetworkComponent 40.26.506.233",
+    "submissionId": "1152921505701083676"
   },
   {
     "sharedProductId": "402716986",
@@ -15038,14 +15038,14 @@
   {
     "sharedProductId": "402716991",
     "privateProductId": "14214601134764207",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ICPS Network Component 50.26.506.234",
+    "submissionId": "1152921505701084210"
   },
   {
     "sharedProductId": "402716992",
     "privateProductId": "13944610824068956",
-    "productName": "",
-    "submissionId": ""
+    "productName": "KillerNetworkExtension Tend 40.26.506.233",
+    "submissionId": "1152921505701083944"
   },
   {
     "sharedProductId": "402716997",
@@ -15146,14 +15146,14 @@
   {
     "sharedProductId": "402723726",
     "privateProductId": "13698453570396875",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1204CTA_310",
+    "submissionId": "1152921505701083054"
   },
   {
     "sharedProductId": "402724031",
     "privateProductId": "13755542125908933",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BR1204FTA_310",
+    "submissionId": "1152921505701083095"
   },
   {
     "sharedProductId": "402724519",
@@ -15164,32 +15164,32 @@
   {
     "sharedProductId": "402724566",
     "privateProductId": "13551401982513302",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_PM3406CHA_Laibao_Touchpad_02_5405",
+    "submissionId": "1152921505701087114"
   },
   {
     "sharedProductId": "402724569",
     "privateProductId": "13925015735181678",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:ThinkBook Gen8+ IPD IPH_PD_1.0.1.0",
+    "submissionId": "1152921505701085924"
   },
   {
     "sharedProductId": "402724614",
     "privateProductId": "13643956842555452",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3406CGA-TouchPad_02-5405",
+    "submissionId": "1152921505701087308"
   },
   {
     "sharedProductId": "402724631",
     "privateProductId": "13514983659536959",
-    "productName": "",
-    "submissionId": ""
+    "productName": "LNVNB:Huaqin:ThinkBook 14_16 G8+ IPH BIOS 1.21.0_T",
+    "submissionId": "1152921505701085907"
   },
   {
     "sharedProductId": "402724933",
     "privateProductId": "14040584395421402",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_B3406CCA-TouchPad_02-5405",
+    "submissionId": "1152921505701086944"
   },
   {
     "sharedProductId": "402725698",
@@ -15224,8 +15224,8 @@
   {
     "sharedProductId": "402726629",
     "privateProductId": "14291241912624453",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R) PROSet Wireless WiFi 24.1050.0.2 PIE Ext INF",
+    "submissionId": "1152921505701157069"
   },
   {
     "sharedProductId": "402726694",
@@ -15254,14 +15254,14 @@
   {
     "sharedProductId": "402726750",
     "privateProductId": "14036296425240762",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel® Wireless WiFi Driver 24.50.0.4 DCH-BASE",
+    "submissionId": "1152921505701156256"
   },
   {
     "sharedProductId": "402726751",
     "privateProductId": "13805615912688379",
-    "productName": "",
-    "submissionId": ""
+    "productName": "Intel(R)PROSet Wireless WiFi 24.1050.0.3 PIE Comp INF",
+    "submissionId": "1152921505701156573"
   },
   {
     "sharedProductId": "402726756",
@@ -15560,32 +15560,32 @@
   {
     "sharedProductId": "402741086",
     "privateProductId": "13655354038507864",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB7263C_BIOS_V1.10_TEST",
+    "submissionId": "1152921505701157263"
   },
   {
     "sharedProductId": "402741431",
     "privateProductId": "14219498596837437",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB6303B Picotin2_TKN_V1.10 Test",
+    "submissionId": "1152921505701156967"
   },
   {
     "sharedProductId": "402741659",
     "privateProductId": "13734580173814390",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_PM5406CGA_Laibao Touchpad_5405",
+    "submissionId": "1152921505701160053"
   },
   {
     "sharedProductId": "402741660",
     "privateProductId": "13640693593555773",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3406CGA_Laibao Touchpad_5405",
+    "submissionId": "1152921505701160056"
   },
   {
     "sharedProductId": "402741895",
     "privateProductId": "13779339049084919",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_M3652UA_304",
+    "submissionId": "1152921505701159692"
   },
   {
     "sharedProductId": "402742035",
@@ -15602,20 +15602,20 @@
   {
     "sharedProductId": "402742044",
     "privateProductId": "14124911996572082",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_BM3406CGAZ_Laibao Touchpad_5405",
+    "submissionId": "1152921505701160105"
   },
   {
     "sharedProductId": "402742152",
     "privateProductId": "13916401561506973",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_M3452UA_304",
+    "submissionId": "1152921505701159737"
   },
   {
     "sharedProductId": "402742829",
     "privateProductId": "14603892703520951",
-    "productName": "",
-    "submissionId": ""
+    "productName": "NB8111G_V1.05BIOS_WU",
+    "submissionId": "1152921505701164964"
   },
   {
     "sharedProductId": "402743020",
@@ -15626,20 +15626,20 @@
   {
     "sharedProductId": "402743514",
     "privateProductId": "14112137701448271",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_S3452AA_303",
+    "submissionId": "1152921505701167629"
   },
   {
     "sharedProductId": "402743540",
     "privateProductId": "13885838515579073",
-    "productName": "",
-    "submissionId": ""
+    "productName": "ASUS_S3652AA_303",
+    "submissionId": "1152921505701167463"
   },
   {
     "sharedProductId": "402743546",
     "privateProductId": "13842409316804422",
-    "productName": "",
-    "submissionId": ""
+    "productName": "CTE_NB_EX160P1_MTH_BIOS_V1.04",
+    "submissionId": "1152921505701168004"
   },
   {
     "sharedProductId": "402744961",
@@ -17278,5 +17278,347 @@
     "privateProductId": "14308183460388021",
     "productName": "Intel® Graphics Driver b101.7088 Base",
     "submissionId": "1152921505701284372"
+  },
+  {
+    "sharedProductId": "402774778",
+    "privateProductId": "13743961327856212",
+    "productName": "ASUS_S5652MA_308",
+    "submissionId": "1152921505701289525"
+  },
+  {
+    "sharedProductId": "402774799",
+    "privateProductId": "14061478048333054",
+    "productName": "ASUS_S5452MA_308",
+    "submissionId": "1152921505701289410"
+  },
+  {
+    "sharedProductId": "7777777",
+    "privateProductId": "14181118047176850",
+    "productName": "Complete",
+    "submissionId": "1152921505700606124"
+  },
+  {
+    "sharedProductId": "402577987",
+    "privateProductId": "14281389632595157",
+    "productName": "Acer_NB6796A_BIOS_1.20.0.0",
+    "submissionId": "1152921505700490088"
+  },
+  {
+    "sharedProductId": "402577708",
+    "privateProductId": "13829020944392723",
+    "productName": "qcdiagcsi8480",
+    "submissionId": "1152921505700487884"
+  },
+  {
+    "sharedProductId": "402577847",
+    "privateProductId": "13518892100372009",
+    "productName": "QcPmicApps8480",
+    "submissionId": "1152921505700488075"
+  },
+  {
+    "sharedProductId": "402577559",
+    "privateProductId": "14277459131673899",
+    "productName": "qcdiagcsi8480",
+    "submissionId": "1152921505700487812"
+  },
+  {
+    "sharedProductId": "402577845",
+    "privateProductId": "14437143896786081",
+    "productName": "qcbattminiclass8480",
+    "submissionId": "1152921505700487737"
+  },
+  {
+    "sharedProductId": "402577267",
+    "privateProductId": "14636225067353280",
+    "productName": "qcwlanhmt8480",
+    "submissionId": "1152921505700487268"
+  },
+  {
+    "sharedProductId": "402577518",
+    "privateProductId": "14435757253320982",
+    "productName": "qcwlancol8480",
+    "submissionId": "1152921505700487293"
+  },
+  {
+    "sharedProductId": "402577201",
+    "privateProductId": "13595520330980223",
+    "productName": "NB8238T_BIOS_V1.03_Test",
+    "submissionId": "1152921505700486578"
+  },
+  {
+    "sharedProductId": "402577196",
+    "privateProductId": "14278565752644636",
+    "productName": "NB8112T_BIOS_V1.03_Test",
+    "submissionId": "1152921505700486194"
+  },
+  {
+    "sharedProductId": "402577213",
+    "privateProductId": "14144231601864340",
+    "productName": "Lenovo_NB7880C_BIOS_1.12.0.0_Test2",
+    "submissionId": "1152921505700485657"
+  },
+  {
+    "sharedProductId": "402577181",
+    "privateProductId": "14428165654771805",
+    "productName": "Lenovo_NB7880CD_BIOS_1.12.0.0_Test1",
+    "submissionId": "1152921505700485237"
+  },
+  {
+    "sharedProductId": "402576946",
+    "privateProductId": "13991697192369300",
+    "productName": "LNVNB:Huaqin:motobook 60 14IAH10 Battery 101.0.0.1_test",
+    "submissionId": "1152921505700485166"
+  },
+  {
+    "sharedProductId": "402576713",
+    "privateProductId": "14597508875162991",
+    "productName": "Lenovo_NB7203C_BIOS_1.18.0.0_Battery_Test",
+    "submissionId": "1152921505700484504"
+  },
+  {
+    "sharedProductId": "402553524",
+    "privateProductId": "14245946163699684",
+    "productName": "Intel® Graphics Driver b101.8362 Base",
+    "submissionId": "1152921505700484275"
+  },
+  {
+    "sharedProductId": "402576683",
+    "privateProductId": "14291220243715115",
+    "productName": "NB7203PQ_Lenovo_L24M3PK2_BatteryWU_101.0.0.106",
+    "submissionId": "1152921505700484388"
+  },
+  {
+    "sharedProductId": "402576274",
+    "privateProductId": "14458140166004029",
+    "productName": "NB7539B_Quadro_BIOS_F.02",
+    "submissionId": "1152921505700482716"
+  },
+  {
+    "sharedProductId": "402575825",
+    "privateProductId": "14079313571609991",
+    "productName": "HONORAPO_1.26.10.4",
+    "submissionId": "1152921505700481251"
+  },
+  {
+    "sharedProductId": "402576163",
+    "privateProductId": "14320620766499998",
+    "productName": "HONORAPO_SERVICE_1.0.0.4",
+    "submissionId": "1152921505700481304"
+  },
+  {
+    "sharedProductId": "402576063",
+    "privateProductId": "14516913258141856",
+    "productName": "HONORAPO_EXT_1.26.10.4",
+    "submissionId": "1152921505700481281"
+  },
+  {
+    "sharedProductId": "402523865",
+    "privateProductId": "13675930650653741",
+    "productName": "audio_acpbus_6.0.1.83 (automation)",
+    "submissionId": "1152921505700479735"
+  },
+  {
+    "sharedProductId": "402556277",
+    "privateProductId": "13742288599006649",
+    "productName": "ISST 20.43.12573.6 W11",
+    "submissionId": "1152921505700479020"
+  },
+  {
+    "sharedProductId": "402575473",
+    "privateProductId": "13793131132117747",
+    "productName": "SCR_UCSI_X6_1.30",
+    "submissionId": "1152921505700478339"
+  },
+  {
+    "sharedProductId": "402571304",
+    "privateProductId": "13648316025700921",
+    "productName": "Lenovo_Test_NB6837J_BIOS_1.16.0.0",
+    "submissionId": "1152921505700465002"
+  },
+  {
+    "sharedProductId": "402571189",
+    "privateProductId": "14363904913595033",
+    "productName": "ASUS_VM441QA_qcsubsys_ext_adsp8380_2.0.4458.2602_25H2",
+    "submissionId": "1152921505700464768"
+  },
+  {
+    "sharedProductId": "402570825",
+    "privateProductId": "13824177524989802",
+    "productName": "Lenovo_NB7880CD_BIOS_1.12.0.0_Test",
+    "submissionId": "1152921505700463986"
+  },
+  {
+    "sharedProductId": "402569755",
+    "privateProductId": "14072425322513836",
+    "productName": "HP_OBUQ_NB7911B_BIOS_F.03",
+    "submissionId": "1152921505700460272"
+  },
+  {
+    "sharedProductId": "402569586",
+    "privateProductId": "13521892339347501",
+    "productName": "qcusbc_eb3",
+    "submissionId": "1152921505700460048"
+  },
+  {
+    "sharedProductId": "402569618",
+    "privateProductId": "13820311971232265",
+    "productName": "qcacsp_crd8480",
+    "submissionId": "1152921505700460114"
+  },
+  {
+    "sharedProductId": "402569697",
+    "privateProductId": "14065356696221185",
+    "productName": "qcasd_CRD_Extension8480_4500R_FIxHWoffload",
+    "submissionId": "1152921505700459943"
+  },
+  {
+    "sharedProductId": "402569695",
+    "privateProductId": "13614533447174647",
+    "productName": "Lenovo_NB7203E_BIOS_1.21.0.0_Test",
+    "submissionId": "1152921505700459939"
+  },
+  {
+    "sharedProductId": "402568107",
+    "privateProductId": "14174951381189713",
+    "productName": "Mediatek Bluetooth Audio Device_v1.6.0.47",
+    "submissionId": "1152921505700459598"
+  },
+  {
+    "sharedProductId": "402569422",
+    "privateProductId": "14318341549950807",
+    "productName": "MediaTek Wi-Fi 7 MT7925 Wireless LAN Card_V5.7.0.5416",
+    "submissionId": "1152921505700459642"
+  },
+  {
+    "sharedProductId": "402568170",
+    "privateProductId": "13830433182723272",
+    "productName": "MTK Generic Bluetooth v1.1146.0.572_Owl",
+    "submissionId": "1152921505700459281"
+  },
+  {
+    "sharedProductId": "402569419",
+    "privateProductId": "14248762963032601",
+    "productName": "Lenovo_NB6837LM_1.25.0.0",
+    "submissionId": "1152921505700458843"
+  },
+  {
+    "sharedProductId": "402569157",
+    "privateProductId": "14333177647492927",
+    "productName": "Lenovo_NB6837LM_0821_PDFW_2026_01_07",
+    "submissionId": "1152921505700458077"
+  },
+  {
+    "sharedProductId": "402569145",
+    "privateProductId": "14472314750613092",
+    "productName": "qcasd_CRD_Extension8480",
+    "submissionId": "1152921505700457757"
+  },
+  {
+    "sharedProductId": "402420349",
+    "privateProductId": "14422714434989884",
+    "productName": "HP_OB_PTL_MEPExtension",
+    "submissionId": "1152921505699917664"
+  },
+  {
+    "sharedProductId": "402420439",
+    "privateProductId": "13838581682002692",
+    "productName": "HP_OB_PTL_CameraComponent",
+    "submissionId": "1152921505699917514"
+  },
+  {
+    "sharedProductId": "402420412",
+    "privateProductId": "14541329896943138",
+    "productName": "HP_PTL_PPM_1.0.0.172_V2",
+    "submissionId": "1152921505699917463"
+  },
+  {
+    "sharedProductId": "402420293",
+    "privateProductId": "14560018644372267",
+    "productName": "HP_PTL_IPF_2.3.20200.4333_ATT",
+    "submissionId": "1152921505699917195"
+  },
+  {
+    "sharedProductId": "402418394",
+    "privateProductId": "13816450138700290",
+    "productName": "Microarray Fingerprint Reader(Amd64_24H2)",
+    "submissionId": "1152921505699914032"
+  },
+  {
+    "sharedProductId": "402417047",
+    "privateProductId": "14105679513914521",
+    "productName": "MTK Generic Bluetooth v1.1044.0.556_Owl",
+    "submissionId": "1152921505699913407"
+  },
+  {
+    "sharedProductId": "402419009",
+    "privateProductId": "13556488679025448",
+    "productName": "Lenovo_DisplayHDR_25H2",
+    "submissionId": "1152921505699912629"
+  },
+  {
+    "sharedProductId": "402417098",
+    "privateProductId": "13993208177946444",
+    "productName": "Acer_NB7261A_BIOS_1.04_Test",
+    "submissionId": "1152921505699906154"
+  },
+  {
+    "sharedProductId": "402416693",
+    "privateProductId": "14012890032026759",
+    "productName": "HP_OB_Graphics_ext_8075_change_brightness",
+    "submissionId": "1152921505699904596"
+  },
+  {
+    "sharedProductId": "402415748",
+    "privateProductId": "14403279626957952",
+    "productName": "Lenovo_NB6766B_BIOS_1.37.0.0_Test_20250928",
+    "submissionId": "1152921505699902965"
+  },
+  {
+    "sharedProductId": "402416063",
+    "privateProductId": "13526412666615803",
+    "productName": "Acer_NB6807C_BIOS_1.13_Test",
+    "submissionId": "1152921505699903073"
+  },
+  {
+    "sharedProductId": "402259503",
+    "privateProductId": "13907587117216641",
+    "productName": "FocalTechFPSTPdriver24H2x64V5.3.66.5938_winall",
+    "submissionId": "1152921505699903107"
+  },
+  {
+    "sharedProductId": "402415801",
+    "privateProductId": "14034484956961076",
+    "productName": "Lenovo_NB6766B_BIOS_1.36.0.0_20250928",
+    "submissionId": "1152921505699902760"
+  },
+  {
+    "sharedProductId": "402415917",
+    "privateProductId": "13860643673017644",
+    "productName": "ASUS_BR1100FKA_325",
+    "submissionId": "1152921505699902641"
+  },
+  {
+    "sharedProductId": "402415973",
+    "privateProductId": "14564353186797125",
+    "productName": "Acer_NB7276D_V103",
+    "submissionId": "1152921505699902728"
+  },
+  {
+    "sharedProductId": "402415916",
+    "privateProductId": "13965928169374877",
+    "productName": "ASUS_BR1100CKA_325",
+    "submissionId": "1152921505699902640"
+  },
+  {
+    "sharedProductId": "402415741",
+    "privateProductId": "14137914702722793",
+    "productName": "Acer_NB7261B_V105",
+    "submissionId": "1152921505699902555"
+  },
+  {
+    "sharedProductId": "402415739",
+    "privateProductId": "13895615437848882",
+    "productName": "Lenovo_NB6389E_BIOS_1.35",
+    "submissionId": "1152921505699902554"
   }
 ]
